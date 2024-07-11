@@ -2,8 +2,7 @@ from typing import List, Tuple
 from venv import logger
 import requests, os
 
-registry_ip = os.getenv("REGISTRY_IP")
-base_url = f"https://{registry_ip}:28443/v1"
+base_url = os.getenv("REGISTRY_ENDPOINT") or "https://localhost:28443/v1"
 
 Response = Tuple[int, str]
 
