@@ -19,6 +19,15 @@ def add_tenant(tenant_id: str = "", messaging_type: str = "kafka") -> Response:
     })
     return (response.status_code, response.text)
 
+def delete_tenant(tenant_id: str) -> Response:
+    """
+    Delete a tenant from the system
+    :param tenant_id: The tenant ID to delete.
+    """
+    url = f"{base_url}/tenants/{tenant_id}"
+    response = requests.delete(url, verify=False, headers={"Content-Type": "application/json"})
+    return (response.status_code, response.text)
+
 def add_device(device_id: str, tenant_id: str) -> Response:
     """
     Add a device to the system
@@ -27,6 +36,16 @@ def add_device(device_id: str, tenant_id: str) -> Response:
     """
     url = f"{base_url}/devices/{tenant_id}/{device_id}"
     response = requests.post(url, verify=False, headers={"Content-Type": "application/json"})
+    return (response.status_code, response.text)
+
+def delete_device(device_id: str, tenant_id: str) -> Response:
+    """
+    Delete a device from the system
+    :param device_id: The device ID to delete.
+    :param tenant_id: The tenant ID to delete the device from.
+    """
+    url = f"{base_url}/devices/{tenant_id}/{device_id}"
+    response = requests.delete(url, verify=False, headers={"Content-Type": "application/json"})
     return (response.status_code, response.text)
 
 def set_credentials(tenant_id: str, device_id: str, password: str) -> Response:

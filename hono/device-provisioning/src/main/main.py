@@ -29,7 +29,7 @@ def list_devices(args):
 
 def load_config_from_yaml(args):
     print(f"Loading configuration from {args.from_yaml}")
-    if not os.path.exists(args.from_yaml):
+    if args.from_yaml is None or not os.path.exists(args.from_yaml):
         print("File does not exist")
         return
     with open(args.from_yaml, 'r') as file:
@@ -59,13 +59,44 @@ def load_config_from_yaml(args):
                     _, response = hono_client_api.set_credentials(tenant_id, device_id, password)
                     print(f"\tCredentials set for {device_id}: {response}")
 
+def delete_config_from_yaml(args):
+    print(f"Delete configuration from {args.from_yaml}")
+    if args.from_yaml is None or not os.path.exists(args.from_yaml):
+        print("File does not exist")
+        return
+    with open(args.from_yaml, 'r') as file:
+        config = yaml.load(file, Loader=yaml.CLoader)
+        if 'tenants' not in config:
+            print("Missing tenants in configuration")
+            return
+        for tenant in config['tenants']:
+            if 'tenant-id' not in tenant:
+                print("Missing tenant_id in tenant configuration")
+                continue
+            tenant_id = tenant['tenant-id']
+            if 'devices' in tenant:
+                for device in tenant['devices']:
+                    if 'device-id' not in device:
+                        print("Missing device_id in device configuration")
+                        continue
+                    device_id = device['device-id']
+                    _, response = hono_client_api.delete_device(device_id, tenant_id)
+                    print(f"\tDeleted device {device_id}: {response}")
+
+            _, response = hono_client_api.delete_tenant(tenant_id)
+            print(f"Deleted tenant {tenant_id} {response}")
+
 def main():
     parser = argparse.ArgumentParser(description="Command line parser for hono device management")
     subparsers = parser.add_subparsers(help="Commands")
 
     # add
-    parser_add_tenant = subparsers.add_parser('add', help='Add operations')
-    subparsers_add = parser_add_tenant.add_subparsers(help="Add an entity to the system")
+    parser_add = subparsers.add_parser('add', help='Add operations')
+    subparsers_add = parser_add.add_subparsers(help="Add an entity to the system")
+
+    # add --from-yaml
+    parser_add.add_argument('--from-yaml', type=str, help='YAML file to load configuration from')
+    parser_add.set_defaults(func=load_config_from_yaml)
 
     # add tenant
     parser_add_tenant_cmd = subparsers_add.add_parser('tenant', help='Add a new tenant')
@@ -77,6 +108,13 @@ def main():
     parser_add_device_cmd.add_argument('device_id', type=str, help='Device ID')
     parser_add_device_cmd.add_argument('--tenant-id', dest='tenant_id', type=str, required=True, help='Tenant ID')
     parser_add_device_cmd.set_defaults(func=add_device)
+
+    # delete
+    parser_delete = subparsers.add_parser('delete', help='Delete operations')
+
+    # delete --from-yaml
+    parser_delete.add_argument('--from-yaml', type=str, help='YAML file to load configuration from')
+    parser_delete.set_defaults(func=delete_config_from_yaml)
 
     # set-credentials
     parser_set_credentials = subparsers.add_parser('set-credentials', help='Set credentials for a device')
@@ -95,10 +133,6 @@ def main():
     # list device
     parser_list_device = subparsers_list.add_parser('device', help='List all devices')
     parser_list_device.set_defaults(func=list_devices)
-
-    # --from-yaml
-    parser.add_argument('--from-yaml', type=str, help='YAML file to load configuration from')
-    parser.set_defaults(func=load_config_from_yaml)
 
     args = parser.parse_args()
 
