@@ -8,4 +8,4 @@ helm install eclipse-hono eclipse-iot/hono -n hono --wait
 
 kubectl wait --for=condition=Ready pods --all -n hono
 
-./create-hono-env.sh
+./create-hono-env.sh playground/hono.env
