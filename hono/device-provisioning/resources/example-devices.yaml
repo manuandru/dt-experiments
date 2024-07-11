@@ -1,0 +1,27 @@
+tenants:
+  - tenant-id: my-tenant1
+    devices:
+      - device-id: device1
+        password: my-password
+      - device-id: device2
+        password: my-password2
+  - tenant-id: my-tenant2
+    devices:
+      - device-id: device3
+        password: my-password3
+      - device-id: device4
+        password: my-password4
+      - device-id: device5
+        password: my-password5
+  - tenant-id: my-tenant3
+    devices:
+      - device-id: device6
+        password: my-password6
+      - device-id: device7
+        password: my-password7
+      - device-id: device8
+        password: my-password8
+      - device-id: device9
+        password: my-password9
+      - device-id: device10
+        password: my-password10
