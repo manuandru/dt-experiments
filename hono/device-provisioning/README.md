@@ -51,3 +51,11 @@ The following command sets the credentials for a device, named `my-device`in  `m
 ```bash
 python src/main/main.py set-credentials --tenant-id my-tenant --device-id my-device
 ```
+
+#### Configuration from file
+
+The following command adds tenants and devices from a configuration `YAML` file:
+
+```bash
+python src/main/main.py add --from-yaml resources/example-devices.yaml
+```
