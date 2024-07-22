@@ -1,3 +1,4 @@
 hono.env
 __pycache__
 .vscode
+.DS_Store
