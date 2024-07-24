@@ -1,6 +1,7 @@
 // Only supports SX1276/SX1278
 #include <LoRa.h>
 #include "LoRaBoards.h"
+#include "utils.h"
 
 int counter = 0;
 
@@ -17,12 +18,12 @@ void setup()
 
     Serial.println("LoRa Sender");
     LoRa.setPins(RADIO_CS_PIN, RADIO_RST_PIN, RADIO_DIO0_PIN);
-    if (!LoRa.begin(LORA_FREQ_CONFIG))
-    {
+    if (!LoRa.begin(LORA_FREQ_CONFIG)) {
         Serial.println("Starting LoRa failed!");
         while (1)
             ;
     }
+    LoRa.setSyncWord(SYNC_WORD_LORA);
 }
 
 void loop()
@@ -46,5 +47,5 @@ void loop()
         u8g2->sendBuffer();
     }
     counter++;
-    delay(5000);
+    delay(500);
 }

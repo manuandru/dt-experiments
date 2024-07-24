@@ -9,8 +9,7 @@
 
 #pragma once
 
-
-#include "utilities.h"
+#include "LoRaBoardSelection.h"
 
 #ifdef HAS_SDCARD
 #include <SD.h>
@@ -44,7 +43,7 @@
 #endif
 
 #ifndef LORA_FREQ_CONFIG
-#define LORA_FREQ_CONFIG        915.0
+#define LORA_FREQ_CONFIG        868E6 // do not work 868.0
 #endif
 
 

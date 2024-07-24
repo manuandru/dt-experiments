@@ -1,6 +1,7 @@
 // Only supports SX1276/SX1278
 #include <LoRa.h>
 #include "LoRaBoards.h"
+#include "utils.h"
 
 void setup()
 {
@@ -20,6 +21,7 @@ void setup()
         Serial.println("Starting LoRa failed!");
         while (1);
     }
+    LoRa.setSyncWord(SYNC_WORD_LORA);
 }
 
 void loop()
