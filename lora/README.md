@@ -56,6 +56,12 @@ http-hono-forwarder> docker build -t http-hono-forwarder .
 http-hono-forwarder> docker run -p 3000:3000 http-hono-forwarder
 ```
 
+### Read messages from Hono
+
+You can use the Hono CLI or a Kafka client to get the messages from the Hono instance.
+
+Please refer to the [Hono playground](../hono/playground/README.md#listen-for-incoming-messages) for more information.
+
 ### The overall architecture
 
 - `Sender ESP32` sends packets using LoRa
