@@ -1,0 +1,3 @@
+[submodule "torrevieja-sensors-integration/ditto"]
+	path = torrevieja-sensors-integration/ditto
+	url = https://github.com/eclipse-ditto/ditto

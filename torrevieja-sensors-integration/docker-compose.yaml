@@ -1,0 +1,5 @@
+include:
+  - path: ditto/deployment/docker/docker-compose.yml
+    project_directory: ditto/deployment/docker
+  - path: thing-directory/docker-compose.yaml
+    project_directory: thing-directory
