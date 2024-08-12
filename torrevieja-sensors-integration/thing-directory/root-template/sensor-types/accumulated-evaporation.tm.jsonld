@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "https://www.w3.org/2022/wot/td/v1.1"
+    ],
+    "@type": "tm:ThingModel",
+    "title": "Accumulated evaporation sensor",
+    "version": {
+        "model": "1.0.0"
+    },
+    "tm:optional": [],
+    "properties": {
+        "accumulatedEvaporation": {
+            "title": "Accumulated evaporation",
+            "description": "Accumulated evaporation value",
+            "type": "integer"
+        }
+    }
+}

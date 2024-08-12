@@ -1,0 +1,59 @@
+{
+    "@context": [
+        "https://www.w3.org/2022/wot/td/v1.1",
+        {
+            "geo": "https://schema.org/GeoCoordinates"
+        }
+    ],
+    "@type": "tm:ThingModel",
+    "title": "Visitors counter Sensor",
+    "description": "A sensor that provides the number of visitors.",
+    "version": {
+        "model": "1.0.0"
+    },
+    "links": [
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/counter.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "count_in"
+        },
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/counter.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "count_out"
+        }
+    ],
+    "tm:optional": [],
+    "properties": {
+        "name": {
+            "title": "Name of the visitors counter sensor",
+            "type": "string",
+            "readOnly": true
+        },
+        "sensorId": {
+            "title": "Sensor ID",
+            "description": "The unique identifier of the visitors counter sensor.",
+            "type": "string",
+            "readOnly": true
+        },
+        "coordinate": {
+            "title": "Geographic Coordinates",
+            "description": "The geographic coordinates of the visitors counter sensor.",
+            "@type": "geo:GeoCoordinates",
+            "properties": {
+                "latitude": {
+                    "type": "number",
+                    "description": "The latitude of the visitors counter sensor.",
+                    "readOnly": true
+                },
+                "longitude": {
+                    "type": "number",
+                    "description": "The longitude of the visitors counter sensor.",
+                    "readOnly": true
+                }
+            }
+        }
+    }
+}

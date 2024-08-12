@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "https://www.w3.org/2022/wot/td/v1.1"
+    ],
+    "@type": "tm:ThingModel",
+    "title": "Temperature sensor",
+    "version": {
+        "model": "1.0.0"
+    },
+    "tm:optional": [],
+    "properties": {
+        "temperature": {
+            "title": "Temperature",
+            "description": "Temperature value",
+            "type": "integer"
+        }
+    }
+}

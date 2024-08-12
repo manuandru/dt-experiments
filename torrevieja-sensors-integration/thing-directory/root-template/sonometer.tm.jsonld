@@ -1,0 +1,65 @@
+{
+    "@context": [
+        "https://www.w3.org/2022/wot/td/v1.1",
+        {
+            "geo": "https://schema.org/GeoCoordinates"
+        }
+    ],
+    "@type": "tm:ThingModel",
+    "title": "Sonometer Sensor",
+    "description": "A sonometer sensor that provides noise data.",
+    "version": {
+        "model": "1.0.0"
+    },
+    "links": [
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/noise.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "noise"
+        },
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/humidity.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "humidity"
+        },
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/temperature.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "temperature"
+        }
+    ],
+    "tm:optional": [],
+    "properties": {
+        "name": {
+            "title": "Name of the sonometer sensor",
+            "type": "string",
+            "readOnly": true
+        },
+        "sensorId": {
+            "title": "Sensor ID",
+            "description": "The unique identifier of the sonometer sensor.",
+            "type": "string",
+            "readOnly": true
+        },
+        "coordinate": {
+            "title": "Geographic Coordinates",
+            "description": "The geographic coordinates of the sonometer sensor.",
+            "@type": "geo:GeoCoordinates",
+            "properties": {
+                "latitude": {
+                    "type": "number",
+                    "description": "The latitude of the sonometer sensor.",
+                    "readOnly": true
+                },
+                "longitude": {
+                    "type": "number",
+                    "description": "The longitude of the sonometer sensor.",
+                    "readOnly": true
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "@context": [
+        "https://www.w3.org/2022/wot/td/v1.1",
+        {
+            "geo": "https://schema.org/GeoCoordinates"
+        }
+    ],
+    "@type": "tm:ThingModel",
+    "title": "Buoy Station",
+    "description": "A buoy station that provides various weather data.",
+    "version": {
+        "model": "1.0.0"
+    },
+    "links": [
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/temperature.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "temperature_a"
+        },
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/temperature.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "temperature_b"
+        }
+    ],
+    "tm:optional": [],
+    "properties": {
+        "name": {
+            "title": "Name of the buoy station",
+            "type": "string",
+            "readOnly": true
+        },
+        "sensorId": {
+            "title": "Sensor ID",
+            "description": "The unique identifier of the buoy station.",
+            "type": "string",
+            "readOnly": true
+        },
+        "coordinate": {
+            "title": "Geographic Coordinates",
+            "description": "The geographic coordinates of the buoy station.",
+            "@type": "geo:GeoCoordinates",
+            "properties": {
+                "latitude": {
+                    "type": "number",
+                    "description": "The latitude of the buoy station.",
+                    "readOnly": true
+                },
+                "longitude": {
+                    "type": "number",
+                    "description": "The longitude of the buoy station.",
+                    "readOnly": true
+                }
+            }
+        }
+    }
+}

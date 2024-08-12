@@ -1,0 +1,53 @@
+{
+    "@context": [
+        "https://www.w3.org/2022/wot/td/v1.1",
+        {
+            "geo": "https://schema.org/GeoCoordinates"
+        }
+    ],
+    "@type": "tm:ThingModel",
+    "title": "Lagoon Depth Sensor",
+    "description": "A depth sensor that provides lagoon depth data.",
+    "version": {
+        "model": "1.0.0"
+    },
+    "links": [
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/depth.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "depth"
+        }
+    ],
+    "tm:optional": [],
+    "properties": {
+        "name": {
+            "title": "Name of the lagoon depth sensor",
+            "type": "string",
+            "readOnly": true
+        },
+        "sensorId": {
+            "title": "Sensor ID",
+            "description": "The unique identifier of the lagoon depth sensor.",
+            "type": "string",
+            "readOnly": true
+        },
+        "coordinate": {
+            "title": "Geographic Coordinates",
+            "description": "The geographic coordinates of the lagoon depth sensor.",
+            "@type": "geo:GeoCoordinates",
+            "properties": {
+                "latitude": {
+                    "type": "number",
+                    "description": "The latitude of the lagoon depth sensor.",
+                    "readOnly": true
+                },
+                "longitude": {
+                    "type": "number",
+                    "description": "The longitude of the lagoon depth sensor.",
+                    "readOnly": true
+                }
+            }
+        }
+    }
+}
