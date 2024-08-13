@@ -1,6 +1,9 @@
 import json
 from base64 import b64encode
 from dataclasses import dataclass
+from logging import getLogger
+
+logger = getLogger(__name__)
 
 type SensorsMeasurements = dict[SensorInfo, dict[str, str]]
 
@@ -52,6 +55,18 @@ def parse_response_data(response: any) -> set[Measure]:
     """
     sensors_data: SensorsMeasurements = {}
     for data in response['data']:
+        
+        if 'location_id' not in data \
+            or 'name' not in data \
+            or 'timestamp' not in data \
+            or 'lat' not in data \
+            or 'lon' not in data \
+            or 'alt' not in data \
+            or 'sensor_type' not in data \
+            or 'value' not in data:
+            logger.error(f"Invalid data, missing fields.")
+            continue
+
         sensor_info = SensorInfo(
             location_id=data['location_id'],
             safe_location_id=b64encode(data['location_id'].encode()).decode(),
