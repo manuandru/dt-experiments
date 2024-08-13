@@ -1,0 +1,10 @@
+services:
+
+  http-to-mqtt-scraper:
+    image: manuandru/torrevieja-http-to-mqtt-scraper:latest
+    restart: always
+    environment:
+      - MQTT_BROKER=${MQTT_BROKER}
+      - MQTT_PORT=${MQTT_PORT}
+      - HTTP_ENDPOINTS=${HTTP_ENDPOINTS}
+      - HTTP_POLL_INTERVAL_SECONDS=${HTTP_POLL_INTERVAL_SECONDS}
