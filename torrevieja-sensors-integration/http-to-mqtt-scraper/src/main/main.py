@@ -14,7 +14,7 @@ HTTP_ENDPOINTS = os.environ.get(
 )
 SLEEP_TIME_SECONDS = os.environ.get('SLEEP_TIME', 10)
 MQTT_BROKER = os.environ.get('MQTT_BROKER', 'localhost')
-MQTT_PORT = os.environ.get('MQTT_PORT', 1883)
+MQTT_PORT = int(os.environ.get('MQTT_PORT', 1883))
 
 if __name__ == '__main__':
 
