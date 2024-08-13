@@ -1,0 +1,604 @@
+{
+    "data": [
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto3_38.03784_-0.70744_0",
+            "name": "Punto3",
+            "lat": "38.03784",
+            "lon": "-0.70744",
+            "alt": "0",
+            "sensor_type": "Direcci\u00f3n del Viento",
+            "value": 179.0579,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto3_38.03784_-0.70744_0",
+            "name": "Punto3",
+            "lat": "38.03784",
+            "lon": "-0.70744",
+            "alt": "0",
+            "sensor_type": "Ozono",
+            "value": 0.00657,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto3_38.03784_-0.70744_0",
+            "name": "Punto3",
+            "lat": "38.03784",
+            "lon": "-0.70744",
+            "alt": "0",
+            "sensor_type": "Presi\u00f3n Atmosf\u00e9rica",
+            "value": 1018.46985,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto3_38.03784_-0.70744_0",
+            "name": "Punto3",
+            "lat": "38.03784",
+            "lon": "-0.70744",
+            "alt": "0",
+            "sensor_type": "Presi\u00f3n de Vapor",
+            "value": 16.57187,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto3_38.03784_-0.70744_0",
+            "name": "Punto3",
+            "lat": "38.03784",
+            "lon": "-0.70744",
+            "alt": "0",
+            "sensor_type": "Temperatura",
+            "value": 297.7964,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto3_38.03784_-0.70744_0",
+            "name": "Punto3",
+            "lat": "38.03784",
+            "lon": "-0.70744",
+            "alt": "0",
+            "sensor_type": "Velocidad del Viento",
+            "value": 1.83283,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto3_38.03784_-0.70744_0",
+            "name": "Punto3",
+            "lat": "38.03784",
+            "lon": "-0.70744",
+            "alt": "0",
+            "sensor_type": "Humedad",
+            "value": 16.60626,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto3_38.03784_-0.70744_0",
+            "name": "Punto3",
+            "lat": "38.03784",
+            "lon": "-0.70744",
+            "alt": "0",
+            "sensor_type": "Clorofila NN",
+            "value": 1.05512,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto3_38.03784_-0.70744_0",
+            "name": "Punto3",
+            "lat": "38.03784",
+            "lon": "-0.70744",
+            "alt": "0",
+            "sensor_type": "Nubosidad",
+            "value": 58.8,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto3_38.03784_-0.70744_0",
+            "name": "Punto3",
+            "lat": "38.03784",
+            "lon": "-0.70744",
+            "alt": "0",
+            "sensor_type": "Solidos en suspensi\u00f3n",
+            "value": 1.49684,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto3_38.03784_-0.70744_0",
+            "name": "Punto3",
+            "lat": "38.03784",
+            "lon": "-0.70744",
+            "alt": "0",
+            "sensor_type": "Turbidez",
+            "value": 0.70472,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto3_38.03784_-0.70744_0",
+            "name": "Punto3",
+            "lat": "38.03784",
+            "lon": "-0.70744",
+            "alt": "0",
+            "sensor_type": "Clorofila OC",
+            "value": 2,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto5_38.03155_-0.68091_0",
+            "name": "Punto5",
+            "lat": "38.03155",
+            "lon": "-0.68091",
+            "alt": "0",
+            "sensor_type": "Direcci\u00f3n del Viento",
+            "value": 179.0579,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto5_38.03155_-0.68091_0",
+            "name": "Punto5",
+            "lat": "38.03155",
+            "lon": "-0.68091",
+            "alt": "0",
+            "sensor_type": "Ozono",
+            "value": 0.00657,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto5_38.03155_-0.68091_0",
+            "name": "Punto5",
+            "lat": "38.03155",
+            "lon": "-0.68091",
+            "alt": "0",
+            "sensor_type": "Presi\u00f3n Atmosf\u00e9rica",
+            "value": 1018.46985,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto5_38.03155_-0.68091_0",
+            "name": "Punto5",
+            "lat": "38.03155",
+            "lon": "-0.68091",
+            "alt": "0",
+            "sensor_type": "Presi\u00f3n de Vapor",
+            "value": 16.57187,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto5_38.03155_-0.68091_0",
+            "name": "Punto5",
+            "lat": "38.03155",
+            "lon": "-0.68091",
+            "alt": "0",
+            "sensor_type": "Temperatura",
+            "value": 297.7964,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto5_38.03155_-0.68091_0",
+            "name": "Punto5",
+            "lat": "38.03155",
+            "lon": "-0.68091",
+            "alt": "0",
+            "sensor_type": "Velocidad del Viento",
+            "value": 1.83283,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto5_38.03155_-0.68091_0",
+            "name": "Punto5",
+            "lat": "38.03155",
+            "lon": "-0.68091",
+            "alt": "0",
+            "sensor_type": "Humedad",
+            "value": 16.60626,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto5_38.03155_-0.68091_0",
+            "name": "Punto5",
+            "lat": "38.03155",
+            "lon": "-0.68091",
+            "alt": "0",
+            "sensor_type": "Clorofila NN",
+            "value": 0.66142,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto5_38.03155_-0.68091_0",
+            "name": "Punto5",
+            "lat": "38.03155",
+            "lon": "-0.68091",
+            "alt": "0",
+            "sensor_type": "Nubosidad",
+            "value": 36.9,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto5_38.03155_-0.68091_0",
+            "name": "Punto5",
+            "lat": "38.03155",
+            "lon": "-0.68091",
+            "alt": "0",
+            "sensor_type": "Solidos en suspensi\u00f3n",
+            "value": 1.00765,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto5_38.03155_-0.68091_0",
+            "name": "Punto5",
+            "lat": "38.03155",
+            "lon": "-0.68091",
+            "alt": "0",
+            "sensor_type": "Turbidez",
+            "value": 0.22047,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto5_38.03155_-0.68091_0",
+            "name": "Punto5",
+            "lat": "38.03155",
+            "lon": "-0.68091",
+            "alt": "0",
+            "sensor_type": "Clorofila OC",
+            "value": 2,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto2_38.04406_-0.67465_0",
+            "name": "Punto2",
+            "lat": "38.04406",
+            "lon": "-0.67465",
+            "alt": "0",
+            "sensor_type": "Direcci\u00f3n del Viento",
+            "value": 179.06878,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto2_38.04406_-0.67465_0",
+            "name": "Punto2",
+            "lat": "38.04406",
+            "lon": "-0.67465",
+            "alt": "0",
+            "sensor_type": "Ozono",
+            "value": 0.00657,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto2_38.04406_-0.67465_0",
+            "name": "Punto2",
+            "lat": "38.04406",
+            "lon": "-0.67465",
+            "alt": "0",
+            "sensor_type": "Presi\u00f3n Atmosf\u00e9rica",
+            "value": 1018.45746,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto2_38.04406_-0.67465_0",
+            "name": "Punto2",
+            "lat": "38.04406",
+            "lon": "-0.67465",
+            "alt": "0",
+            "sensor_type": "Presi\u00f3n de Vapor",
+            "value": 16.5195,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto2_38.04406_-0.67465_0",
+            "name": "Punto2",
+            "lat": "38.04406",
+            "lon": "-0.67465",
+            "alt": "0",
+            "sensor_type": "Temperatura",
+            "value": 297.80203,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto2_38.04406_-0.67465_0",
+            "name": "Punto2",
+            "lat": "38.04406",
+            "lon": "-0.67465",
+            "alt": "0",
+            "sensor_type": "Velocidad del Viento",
+            "value": 1.81745,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto2_38.04406_-0.67465_0",
+            "name": "Punto2",
+            "lat": "38.04406",
+            "lon": "-0.67465",
+            "alt": "0",
+            "sensor_type": "Humedad",
+            "value": 16.52585,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto2_38.04406_-0.67465_0",
+            "name": "Punto2",
+            "lat": "38.04406",
+            "lon": "-0.67465",
+            "alt": "0",
+            "sensor_type": "Nubosidad",
+            "value": 34.8,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto2_38.04406_-0.67465_0",
+            "name": "Punto2",
+            "lat": "38.04406",
+            "lon": "-0.67465",
+            "alt": "0",
+            "sensor_type": "Clorofila NN",
+            "value": 0.74016,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto2_38.04406_-0.67465_0",
+            "name": "Punto2",
+            "lat": "38.04406",
+            "lon": "-0.67465",
+            "alt": "0",
+            "sensor_type": "Solidos en suspensi\u00f3n",
+            "value": 1.44249,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto2_38.04406_-0.67465_0",
+            "name": "Punto2",
+            "lat": "38.04406",
+            "lon": "-0.67465",
+            "alt": "0",
+            "sensor_type": "Turbidez",
+            "value": 0.50394,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto2_38.04406_-0.67465_0",
+            "name": "Punto2",
+            "lat": "38.04406",
+            "lon": "-0.67465",
+            "alt": "0",
+            "sensor_type": "Clorofila OC",
+            "value": 2,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto1_38.02459_-0.67233_0",
+            "name": "Punto1",
+            "lat": "38.02459",
+            "lon": "-0.67233",
+            "alt": "0",
+            "sensor_type": "Direcci\u00f3n del Viento",
+            "value": 179.05407,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto1_38.02459_-0.67233_0",
+            "name": "Punto1",
+            "lat": "38.02459",
+            "lon": "-0.67233",
+            "alt": "0",
+            "sensor_type": "Ozono",
+            "value": 0.00657,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto1_38.02459_-0.67233_0",
+            "name": "Punto1",
+            "lat": "38.02459",
+            "lon": "-0.67233",
+            "alt": "0",
+            "sensor_type": "Presi\u00f3n Atmosf\u00e9rica",
+            "value": 1018.4749,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto1_38.02459_-0.67233_0",
+            "name": "Punto1",
+            "lat": "38.02459",
+            "lon": "-0.67233",
+            "alt": "0",
+            "sensor_type": "Presi\u00f3n de Vapor",
+            "value": 16.59299,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto1_38.02459_-0.67233_0",
+            "name": "Punto1",
+            "lat": "38.02459",
+            "lon": "-0.67233",
+            "alt": "0",
+            "sensor_type": "Temperatura",
+            "value": 297.7961,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto1_38.02459_-0.67233_0",
+            "name": "Punto1",
+            "lat": "38.02459",
+            "lon": "-0.67233",
+            "alt": "0",
+            "sensor_type": "Velocidad del Viento",
+            "value": 1.83584,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto1_38.02459_-0.67233_0",
+            "name": "Punto1",
+            "lat": "38.02459",
+            "lon": "-0.67233",
+            "alt": "0",
+            "sensor_type": "Humedad",
+            "value": 16.6423,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto1_38.02459_-0.67233_0",
+            "name": "Punto1",
+            "lat": "38.02459",
+            "lon": "-0.67233",
+            "alt": "0",
+            "sensor_type": "Clorofila NN",
+            "value": 0.18898,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto1_38.02459_-0.67233_0",
+            "name": "Punto1",
+            "lat": "38.02459",
+            "lon": "-0.67233",
+            "alt": "0",
+            "sensor_type": "Nubosidad",
+            "value": 28.2,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto1_38.02459_-0.67233_0",
+            "name": "Punto1",
+            "lat": "38.02459",
+            "lon": "-0.67233",
+            "alt": "0",
+            "sensor_type": "Solidos en suspensi\u00f3n",
+            "value": 0.80834,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto1_38.02459_-0.67233_0",
+            "name": "Punto1",
+            "lat": "38.02459",
+            "lon": "-0.67233",
+            "alt": "0",
+            "sensor_type": "Turbidez",
+            "value": 0.25591,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto1_38.02459_-0.67233_0",
+            "name": "Punto1",
+            "lat": "38.02459",
+            "lon": "-0.67233",
+            "alt": "0",
+            "sensor_type": "Clorofila OC",
+            "value": 2,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto4_38.03967_-0.68769_0",
+            "name": "Punto4",
+            "lat": "38.03967",
+            "lon": "-0.68769",
+            "alt": "0",
+            "sensor_type": "Presi\u00f3n de Vapor",
+            "value": 13.59214,
+            "timestamp": 1654380000000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto4_38.03967_-0.68769_0",
+            "name": "Punto4",
+            "lat": "38.03967",
+            "lon": "-0.68769",
+            "alt": "0",
+            "sensor_type": "Temperatura",
+            "value": 297.79868,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto4_38.03967_-0.68769_0",
+            "name": "Punto4",
+            "lat": "38.03967",
+            "lon": "-0.68769",
+            "alt": "0",
+            "sensor_type": "Velocidad del Viento",
+            "value": 1.8265,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto4_38.03967_-0.68769_0",
+            "name": "Punto4",
+            "lat": "38.03967",
+            "lon": "-0.68769",
+            "alt": "0",
+            "sensor_type": "Humedad",
+            "value": 27.36802,
+            "timestamp": 1654293600000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto4_38.03967_-0.68769_0",
+            "name": "Punto4",
+            "lat": "38.03967",
+            "lon": "-0.68769",
+            "alt": "0",
+            "sensor_type": "Presi\u00f3n Atmosf\u00e9rica",
+            "value": 1018.46484,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto4_38.03967_-0.68769_0",
+            "name": "Punto4",
+            "lat": "38.03967",
+            "lon": "-0.68769",
+            "alt": "0",
+            "sensor_type": "Direcci\u00f3n del Viento",
+            "value": 179.06213,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto4_38.03967_-0.68769_0",
+            "name": "Punto4",
+            "lat": "38.03967",
+            "lon": "-0.68769",
+            "alt": "0",
+            "sensor_type": "Ozono",
+            "value": 0.00653,
+            "timestamp": 1654380000000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto4_38.03967_-0.68769_0",
+            "name": "Punto4",
+            "lat": "38.03967",
+            "lon": "-0.68769",
+            "alt": "0",
+            "sensor_type": "Clorofila NN",
+            "value": -0.01575,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto4_38.03967_-0.68769_0",
+            "name": "Punto4",
+            "lat": "38.03967",
+            "lon": "-0.68769",
+            "alt": "0",
+            "sensor_type": "Solidos en suspensi\u00f3n",
+            "value": 0.89894,
+            "timestamp": 1654380000000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto4_38.03967_-0.68769_0",
+            "name": "Punto4",
+            "lat": "38.03967",
+            "lon": "-0.68769",
+            "alt": "0",
+            "sensor_type": "Turbidez",
+            "value": 0.19685,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto4_38.03967_-0.68769_0",
+            "name": "Punto4",
+            "lat": "38.03967",
+            "lon": "-0.68769",
+            "alt": "0",
+            "sensor_type": "Nubosidad",
+            "value": 31.5,
+            "timestamp": 1654466400000
+        },
+        {
+            "location_id": "2DjL-4sBzJIAy7teICbv_Punto4_38.03967_-0.68769_0",
+            "name": "Punto4",
+            "lat": "38.03967",
+            "lon": "-0.68769",
+            "alt": "0",
+            "sensor_type": "Clorofila OC",
+            "value": 2,
+            "timestamp": 1654466400000
+        }
+    ]
+}

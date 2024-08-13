@@ -1,0 +1,574 @@
+{
+    "data": [
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono9-th/up_38.02236_-0.68664_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono9-th/up",
+            "lat": "38.02236",
+            "lon": "-0.68664",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 72.31573486328125,
+            "timestamp": 1723534362000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono9-th/up_38.02236_-0.68664_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono9-th/up",
+            "lat": "38.02236",
+            "lon": "-0.68664",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 56,
+            "timestamp": 1723534362000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono9-th/up_38.02236_-0.68664_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono9-th/up",
+            "lat": "38.02236",
+            "lon": "-0.68664",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 33.942161560058594,
+            "timestamp": 1723534362000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono3-th/up_38.03126_-0.70806_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono3-th/up",
+            "lat": "38.03126",
+            "lon": "-0.70806",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 75.7718505859375,
+            "timestamp": 1723534325000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono3-th/up_38.03126_-0.70806_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono3-th/up",
+            "lat": "38.03126",
+            "lon": "-0.70806",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 7,
+            "timestamp": 1723534325000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono3-th/up_38.03126_-0.70806_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono3-th/up",
+            "lat": "38.03126",
+            "lon": "-0.70806",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 31.057111740112305,
+            "timestamp": 1723534325000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono13-th/up_38.01433_-0.67529_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono13-th/up",
+            "lat": "38.01433",
+            "lon": "-0.67529",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 91.34344482421875,
+            "timestamp": 1723534356000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono13-th/up_38.01433_-0.67529_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono13-th/up",
+            "lat": "38.01433",
+            "lon": "-0.67529",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 52,
+            "timestamp": 1723534356000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono13-th/up_38.01433_-0.67529_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono13-th/up",
+            "lat": "38.01433",
+            "lon": "-0.67529",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 26.32733726501465,
+            "timestamp": 1723534356000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono18-th/up_38.02488_-0.66049_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono18-th/up",
+            "lat": "38.02488",
+            "lon": "-0.66049",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 104.198974609375,
+            "timestamp": 1723531702000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono18-th/up_38.02488_-0.66049_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono18-th/up",
+            "lat": "38.02488",
+            "lon": "-0.66049",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 52,
+            "timestamp": 1723531702000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono18-th/up_38.02488_-0.66049_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono18-th/up",
+            "lat": "38.02488",
+            "lon": "-0.66049",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 25.072507858276367,
+            "timestamp": 1723531702000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono4-th/up_38.02795_-0.69860_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono4-th/up",
+            "lat": "38.02795",
+            "lon": "-0.69860",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 66.63946533203125,
+            "timestamp": 1723534304000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono4-th/up_38.02795_-0.69860_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono4-th/up",
+            "lat": "38.02795",
+            "lon": "-0.69860",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 56,
+            "timestamp": 1723534304000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono4-th/up_38.02795_-0.69860_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono4-th/up",
+            "lat": "38.02795",
+            "lon": "-0.69860",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 34.467689514160156,
+            "timestamp": 1723534304000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono15-th/up_38.01997_-0.67206_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono15-th/up",
+            "lat": "38.01997",
+            "lon": "-0.67206",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 90.15325927734375,
+            "timestamp": 1723534489000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono15-th/up_38.01997_-0.67206_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono15-th/up",
+            "lat": "38.01997",
+            "lon": "-0.67206",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 44,
+            "timestamp": 1723534489000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono15-th/up_38.01997_-0.67206_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono15-th/up",
+            "lat": "38.01997",
+            "lon": "-0.67206",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 28.300756454467773,
+            "timestamp": 1723534489000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono16-th/up_38.02613_-0.66430_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono16-th/up",
+            "lat": "38.02613",
+            "lon": "-0.66430",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 79.296630859375,
+            "timestamp": 1723534472000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono16-th/up_38.02613_-0.66430_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono16-th/up",
+            "lat": "38.02613",
+            "lon": "-0.66430",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 59,
+            "timestamp": 1723534472000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono16-th/up_38.02613_-0.66430_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono16-th/up",
+            "lat": "38.02613",
+            "lon": "-0.66430",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 31.250158309936523,
+            "timestamp": 1723534472000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono17-th/up_38.01653_-0.67334_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono17-th/up",
+            "lat": "38.01653",
+            "lon": "-0.67334",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 88.1619873046875,
+            "timestamp": 1723534246000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono17-th/up_38.01653_-0.67334_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono17-th/up",
+            "lat": "38.01653",
+            "lon": "-0.67334",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 72,
+            "timestamp": 1723534246000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono17-th/up_38.01653_-0.67334_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono17-th/up",
+            "lat": "38.01653",
+            "lon": "-0.67334",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 26.338064193725586,
+            "timestamp": 1723534246000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono6-th/up_38.02721_-0.69303_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono6-th/up",
+            "lat": "38.02721",
+            "lon": "-0.69303",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 82.55438232421875,
+            "timestamp": 1723534238000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono6-th/up_38.02721_-0.69303_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono6-th/up",
+            "lat": "38.02721",
+            "lon": "-0.69303",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 54,
+            "timestamp": 1723534238000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono6-th/up_38.02721_-0.69303_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono6-th/up",
+            "lat": "38.02721",
+            "lon": "-0.69303",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 30.488676071166992,
+            "timestamp": 1723534238000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono11-th/up_38.01061_-0.67582_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono11-th/up",
+            "lat": "38.01061",
+            "lon": "-0.67582",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 91.0611572265625,
+            "timestamp": 1723534301000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono11-th/up_38.01061_-0.67582_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono11-th/up",
+            "lat": "38.01061",
+            "lon": "-0.67582",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 63,
+            "timestamp": 1723534301000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono11-th/up_38.01061_-0.67582_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono11-th/up",
+            "lat": "38.01061",
+            "lon": "-0.67582",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 26.63837242126465,
+            "timestamp": 1723534301000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono12-th/up_38.02732_-0.66063_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono12-th/up",
+            "lat": "38.02732",
+            "lon": "-0.66063",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 77.90045166015625,
+            "timestamp": 1723534451000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono12-th/up_38.02732_-0.66063_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono12-th/up",
+            "lat": "38.02732",
+            "lon": "-0.66063",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 48,
+            "timestamp": 1723534451000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono12-th/up_38.02732_-0.66063_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono12-th/up",
+            "lat": "38.02732",
+            "lon": "-0.66063",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 30.703184127807617,
+            "timestamp": 1723534451000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono14-th/up_38.02038_-0.66949_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono14-th/up",
+            "lat": "38.02038",
+            "lon": "-0.66949",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 105.9384765625,
+            "timestamp": 1723534332000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono14-th/up_38.02038_-0.66949_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono14-th/up",
+            "lat": "38.02038",
+            "lon": "-0.66949",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 17,
+            "timestamp": 1723534332000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono14-th/up_38.02038_-0.66949_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono14-th/up",
+            "lat": "38.02038",
+            "lon": "-0.66949",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 26.187917709350586,
+            "timestamp": 1723534332000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono5-th/up_38.02495_-0.69534_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono5-th/up",
+            "lat": "38.02495",
+            "lon": "-0.69534",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 96.95867919921875,
+            "timestamp": 1723534256000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono5-th/up_38.02495_-0.69534_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono5-th/up",
+            "lat": "38.02495",
+            "lon": "-0.69534",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 59,
+            "timestamp": 1723534256000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono5-th/up_38.02495_-0.69534_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono5-th/up",
+            "lat": "38.02495",
+            "lon": "-0.69534",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 26.466764450073242,
+            "timestamp": 1723534256000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono7-th/up_38.02284_-0.68894_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono7-th/up",
+            "lat": "38.02284",
+            "lon": "-0.68894",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 77.19854736328125,
+            "timestamp": 1723534265000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono7-th/up_38.02284_-0.68894_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono7-th/up",
+            "lat": "38.02284",
+            "lon": "-0.68894",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 63,
+            "timestamp": 1723534265000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono7-th/up_38.02284_-0.68894_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono7-th/up",
+            "lat": "38.02284",
+            "lon": "-0.68894",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 31.818593978881836,
+            "timestamp": 1723534265000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono1-th/up_38.02951_-0.70819_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono1-th/up",
+            "lat": "38.02951",
+            "lon": "-0.70819",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 86.17071533203125,
+            "timestamp": 1723534250000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono1-th/up_38.02951_-0.70819_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono1-th/up",
+            "lat": "38.02951",
+            "lon": "-0.70819",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 52,
+            "timestamp": 1723534250000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono1-th/up_38.02951_-0.70819_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono1-th/up",
+            "lat": "38.02951",
+            "lon": "-0.70819",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 27.08881950378418,
+            "timestamp": 1723534250000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono2-th/up_38.03205_-0.71398_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono2-th/up",
+            "lat": "38.03205",
+            "lon": "-0.71398",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 85.69769287109375,
+            "timestamp": 1723534260000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono2-th/up_38.03205_-0.71398_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono2-th/up",
+            "lat": "38.03205",
+            "lon": "-0.71398",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 58,
+            "timestamp": 1723534260000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono2-th/up_38.03205_-0.71398_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono2-th/up",
+            "lat": "38.03205",
+            "lon": "-0.71398",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 27.77522850036621,
+            "timestamp": 1723534260000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono10-th/up_38.01614_-0.68082_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono10-th/up",
+            "lat": "38.01614",
+            "lon": "-0.68082",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 85.77398681640625,
+            "timestamp": 1723534250000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono10-th/up_38.01614_-0.68082_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono10-th/up",
+            "lat": "38.01614",
+            "lon": "-0.68082",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 61,
+            "timestamp": 1723534250000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono10-th/up_38.01614_-0.68082_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono10-th/up",
+            "lat": "38.01614",
+            "lon": "-0.68082",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 28.676137924194336,
+            "timestamp": 1723534250000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono-ciudad/up_37.97612_-0.68054_20",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono-ciudad/up",
+            "lat": "37.97612",
+            "lon": "-0.68054",
+            "alt": "20",
+            "sensor_type": "noise",
+            "value": 64,
+            "timestamp": 1723534312000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono-ciudad/up_37.97612_-0.68054_20",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono-ciudad/up",
+            "lat": "37.97612",
+            "lon": "-0.68054",
+            "alt": "20",
+            "sensor_type": "humidity",
+            "value": 80,
+            "timestamp": 1707127998000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono-ciudad/up_37.97612_-0.68054_20",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono-ciudad/up",
+            "lat": "37.97612",
+            "lon": "-0.68054",
+            "alt": "20",
+            "sensor_type": "temperature",
+            "value": 20,
+            "timestamp": 1707127998000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono8-th/up_38.02042_-0.68887_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono8-th/up",
+            "lat": "38.02042",
+            "lon": "-0.68887",
+            "alt": "0.8",
+            "sensor_type": "humidity",
+            "value": 51.12890625,
+            "timestamp": 1711614667000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono8-th/up_38.02042_-0.68887_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono8-th/up",
+            "lat": "38.02042",
+            "lon": "-0.68887",
+            "alt": "0.8",
+            "sensor_type": "noise",
+            "value": 28,
+            "timestamp": 1711614667000
+        },
+        {
+            "location_id": "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono8-th/up_38.02042_-0.68887_0.8",
+            "name": "v3/red-sonometros-temphum@ttn/devices/sono8-th/up",
+            "lat": "38.02042",
+            "lon": "-0.68887",
+            "alt": "0.8",
+            "sensor_type": "temperature",
+            "value": 26.40241813659668,
+            "timestamp": 1711614667000
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "location_id": "hup4zYsBoTGoLusGWiIj_centro_38.02516_-0.65839_8",
+            "name": "centro",
+            "lat": "38.02516",
+            "lon": "-0.65839",
+            "alt": "8",
+            "sensor_type": "count_in",
+            "value": 35,
+            "timestamp": 1723541487000
+        },
+        {
+            "location_id": "hup4zYsBoTGoLusGWiIj_centro_38.02516_-0.65839_8",
+            "name": "centro",
+            "lat": "38.02516",
+            "lon": "-0.65839",
+            "alt": "8",
+            "sensor_type": "count_out",
+            "value": 35,
+            "timestamp": 1723541487000
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "location_id": "UVztVI0BaNT-uedBhHl1_Profundidad: -0.2m_38.03635_-0.68998_-2.2",
+            "name": "Profundidad: -0.2m",
+            "lat": "38.03635",
+            "lon": "-0.68998",
+            "alt": "-2.2",
+            "sensor_type": "temperature_a",
+            "value": 30.875,
+            "timestamp": 1723528272000
+        },
+        {
+            "location_id": "UVztVI0BaNT-uedBhHl1_Profundidad: -0.2m_38.03635_-0.68998_-2.2",
+            "name": "Profundidad: -0.2m",
+            "lat": "38.03635",
+            "lon": "-0.68998",
+            "alt": "-2.2",
+            "sensor_type": "temperature_b",
+            "value": 30.9375,
+            "timestamp": 1723528272000
+        },
+        {
+            "location_id": "UVztVI0BaNT-uedBhHl1_Profundidad: -0.7m_38.03635_-0.68998_-2.7",
+            "name": "Profundidad: -0.7m",
+            "lat": "38.03635",
+            "lon": "-0.68998",
+            "alt": "-2.7",
+            "sensor_type": "temperature_a",
+            "value": 33.5625,
+            "timestamp": 1723528272000
+        },
+        {
+            "location_id": "UVztVI0BaNT-uedBhHl1_Profundidad: -0.7m_38.03635_-0.68998_-2.7",
+            "name": "Profundidad: -0.7m",
+            "lat": "38.03635",
+            "lon": "-0.68998",
+            "alt": "-2.7",
+            "sensor_type": "temperature_b",
+            "value": 33.6875,
+            "timestamp": 1723528272000
+        },
+        {
+            "location_id": "UVztVI0BaNT-uedBhHl1_Profundidad: -0.2m_38.03916_-0.68968_-2.2",
+            "name": "Profundidad: -0.2m",
+            "lat": "38.03916",
+            "lon": "-0.68968",
+            "alt": "-2.2",
+            "sensor_type": "temperature_a",
+            "value": 15.3625,
+            "timestamp": 1707904454000
+        },
+        {
+            "location_id": "UVztVI0BaNT-uedBhHl1_Profundidad: -0.2m_38.03916_-0.68968_-2.2",
+            "name": "Profundidad: -0.2m",
+            "lat": "38.03916",
+            "lon": "-0.68968",
+            "alt": "-2.2",
+            "sensor_type": "temperature_b",
+            "value": 16.125,
+            "timestamp": 1707904454000
+        },
+        {
+            "location_id": "UVztVI0BaNT-uedBhHl1_Profundidad: -0.7m_38.03916_-0.68968_-2.7",
+            "name": "Profundidad: -0.7m",
+            "lat": "38.03916",
+            "lon": "-0.68968",
+            "alt": "-2.7",
+            "sensor_type": "temperature_a",
+            "value": 20,
+            "timestamp": 1707904454000
+        },
+        {
+            "location_id": "UVztVI0BaNT-uedBhHl1_Profundidad: -0.7m_38.03916_-0.68968_-2.7",
+            "name": "Profundidad: -0.7m",
+            "lat": "38.03916",
+            "lon": "-0.68968",
+            "alt": "-2.7",
+            "sensor_type": "temperature_b",
+            "value": 20.0625,
+            "timestamp": 1707904454000
+        }
+    ]
+}

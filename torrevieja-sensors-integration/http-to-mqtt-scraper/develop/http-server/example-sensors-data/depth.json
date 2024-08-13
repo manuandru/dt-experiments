@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "location_id": "jRCJ548B1ljoqTiFLu0b_mqtt_consumerNivel laguna_38.02050_-0.66930_1",
+            "name": "mqtt",
+            "lat": "consumerNivel laguna",
+            "lon": "38.02050",
+            "alt": "-0.66930",
+            "sensor_type": "profundidad",
+            "value": 43,
+            "timestamp": 1723526744000
+        },
+        {
+            "location_id": "jRCJ548B1ljoqTiFLu0b_A mano_38.02050_-0.66930_0",
+            "name": "A mano",
+            "lat": "38.02050",
+            "lon": "-0.66930",
+            "alt": "0",
+            "sensor_type": "salinidad",
+            "value": 129,
+            "timestamp": 1720778805000
+        }
+    ]
+}

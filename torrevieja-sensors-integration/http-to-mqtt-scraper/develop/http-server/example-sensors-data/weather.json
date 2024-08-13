@@ -1,0 +1,1754 @@
+{
+    "data": [
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Locos_37.98490_-0.65878_0",
+            "name": "Torrevieja - Los Locos",
+            "lat": "37.98490",
+            "lon": "-0.65878",
+            "alt": "0",
+            "sensor_type": "evaporacion",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Locos_37.98490_-0.65878_0",
+            "name": "Torrevieja - Los Locos",
+            "lat": "37.98490",
+            "lon": "-0.65878",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Locos_37.98490_-0.65878_0",
+            "name": "Torrevieja - Los Locos",
+            "lat": "37.98490",
+            "lon": "-0.65878",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Locos_37.98490_-0.65878_0",
+            "name": "Torrevieja - Los Locos",
+            "lat": "37.98490",
+            "lon": "-0.65878",
+            "alt": "0",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Locos_37.98490_-0.65878_0",
+            "name": "Torrevieja - Los Locos",
+            "lat": "37.98490",
+            "lon": "-0.65878",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1011.9,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Locos_37.98490_-0.65878_0",
+            "name": "Torrevieja - Los Locos",
+            "lat": "37.98490",
+            "lon": "-0.65878",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 82,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Locos_37.98490_-0.65878_0",
+            "name": "Torrevieja - Los Locos",
+            "lat": "37.98490",
+            "lon": "-0.65878",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 27.9,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Locos_37.98490_-0.65878_0",
+            "name": "Torrevieja - Los Locos",
+            "lat": "37.98490",
+            "lon": "-0.65878",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 24.5,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Locos_37.98490_-0.65878_0",
+            "name": "Torrevieja - Los Locos",
+            "lat": "37.98490",
+            "lon": "-0.65878",
+            "alt": "0",
+            "sensor_type": "radiacionsolar",
+            "value": 629,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Locos_37.98490_-0.65878_0",
+            "name": "Torrevieja - Los Locos",
+            "lat": "37.98490",
+            "lon": "-0.65878",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 8,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Locos_37.98490_-0.65878_0",
+            "name": "Torrevieja - Los Locos",
+            "lat": "37.98490",
+            "lon": "-0.65878",
+            "alt": "0",
+            "sensor_type": "indiceuv",
+            "value": 3.5,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.99140_-0.72018_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.99140",
+            "lon": "-0.72018",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 90,
+            "timestamp": 1723531500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.99140_-0.72018_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.99140",
+            "lon": "-0.72018",
+            "alt": "0",
+            "sensor_type": "indiceuv",
+            "value": 0.5,
+            "timestamp": 1723531500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.99140_-0.72018_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.99140",
+            "lon": "-0.72018",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723531500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.99140_-0.72018_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.99140",
+            "lon": "-0.72018",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1723531500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.99140_-0.72018_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.99140",
+            "lon": "-0.72018",
+            "alt": "0",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1723531500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.99140_-0.72018_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.99140",
+            "lon": "-0.72018",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1010.2,
+            "timestamp": 1723531500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.99140_-0.72018_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.99140",
+            "lon": "-0.72018",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 23.2,
+            "timestamp": 1723531500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.99140_-0.72018_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.99140",
+            "lon": "-0.72018",
+            "alt": "0",
+            "sensor_type": "radiacionsolar",
+            "value": 167,
+            "timestamp": 1723531500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.99140_-0.72018_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.99140",
+            "lon": "-0.72018",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 25,
+            "timestamp": 1723531500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.99140_-0.72018_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.99140",
+            "lon": "-0.72018",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 8,
+            "timestamp": 1723531500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.99140_-0.72018_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.99140",
+            "lon": "-0.72018",
+            "alt": "0",
+            "sensor_type": "evaporacionacumulada",
+            "value": 0,
+            "timestamp": 1723531500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salvador Ruso_37.98507_-0.67235_0",
+            "name": "Torrevieja - Salvador Ruso",
+            "lat": "37.98507",
+            "lon": "-0.67235",
+            "alt": "0",
+            "sensor_type": "evaporacion",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salvador Ruso_37.98507_-0.67235_0",
+            "name": "Torrevieja - Salvador Ruso",
+            "lat": "37.98507",
+            "lon": "-0.67235",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salvador Ruso_37.98507_-0.67235_0",
+            "name": "Torrevieja - Salvador Ruso",
+            "lat": "37.98507",
+            "lon": "-0.67235",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salvador Ruso_37.98507_-0.67235_0",
+            "name": "Torrevieja - Salvador Ruso",
+            "lat": "37.98507",
+            "lon": "-0.67235",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1010.8,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salvador Ruso_37.98507_-0.67235_0",
+            "name": "Torrevieja - Salvador Ruso",
+            "lat": "37.98507",
+            "lon": "-0.67235",
+            "alt": "0",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salvador Ruso_37.98507_-0.67235_0",
+            "name": "Torrevieja - Salvador Ruso",
+            "lat": "37.98507",
+            "lon": "-0.67235",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 28.1,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salvador Ruso_37.98507_-0.67235_0",
+            "name": "Torrevieja - Salvador Ruso",
+            "lat": "37.98507",
+            "lon": "-0.67235",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 81,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salvador Ruso_37.98507_-0.67235_0",
+            "name": "Torrevieja - Salvador Ruso",
+            "lat": "37.98507",
+            "lon": "-0.67235",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 24.5,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salvador Ruso_37.98507_-0.67235_0",
+            "name": "Torrevieja - Salvador Ruso",
+            "lat": "37.98507",
+            "lon": "-0.67235",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 11.3,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - IesTorrevigia_37.99866_-0.69584_0",
+            "name": "Torrevieja - IesTorrevigia",
+            "lat": "37.99866",
+            "lon": "-0.69584",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 77,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - IesTorrevigia_37.99866_-0.69584_0",
+            "name": "Torrevieja - IesTorrevigia",
+            "lat": "37.99866",
+            "lon": "-0.69584",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - IesTorrevigia_37.99866_-0.69584_0",
+            "name": "Torrevieja - IesTorrevigia",
+            "lat": "37.99866",
+            "lon": "-0.69584",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - IesTorrevigia_37.99866_-0.69584_0",
+            "name": "Torrevieja - IesTorrevigia",
+            "lat": "37.99866",
+            "lon": "-0.69584",
+            "alt": "0",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - IesTorrevigia_37.99866_-0.69584_0",
+            "name": "Torrevieja - IesTorrevigia",
+            "lat": "37.99866",
+            "lon": "-0.69584",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1011.8,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - IesTorrevigia_37.99866_-0.69584_0",
+            "name": "Torrevieja - IesTorrevigia",
+            "lat": "37.99866",
+            "lon": "-0.69584",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 24.1,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - IesTorrevigia_37.99866_-0.69584_0",
+            "name": "Torrevieja - IesTorrevigia",
+            "lat": "37.99866",
+            "lon": "-0.69584",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 28.6,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - IesTorrevigia_37.99866_-0.69584_0",
+            "name": "Torrevieja - IesTorrevigia",
+            "lat": "37.99866",
+            "lon": "-0.69584",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 8,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - IesTorrevigia_37.99866_-0.69584_0",
+            "name": "Torrevieja - IesTorrevigia",
+            "lat": "37.99866",
+            "lon": "-0.69584",
+            "alt": "0",
+            "sensor_type": "evaporacionacumulada",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Centro_37.97616_-0.68223_0",
+            "name": "Torrevieja - Centro",
+            "lat": "37.97616",
+            "lon": "-0.68223",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 86,
+            "timestamp": 1723537500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Centro_37.97616_-0.68223_0",
+            "name": "Torrevieja - Centro",
+            "lat": "37.97616",
+            "lon": "-0.68223",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723537500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Centro_37.97616_-0.68223_0",
+            "name": "Torrevieja - Centro",
+            "lat": "37.97616",
+            "lon": "-0.68223",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1723537500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Centro_37.97616_-0.68223_0",
+            "name": "Torrevieja - Centro",
+            "lat": "37.97616",
+            "lon": "-0.68223",
+            "alt": "0",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1723537500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Centro_37.97616_-0.68223_0",
+            "name": "Torrevieja - Centro",
+            "lat": "37.97616",
+            "lon": "-0.68223",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1011.25,
+            "timestamp": 1723537500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Centro_37.97616_-0.68223_0",
+            "name": "Torrevieja - Centro",
+            "lat": "37.97616",
+            "lon": "-0.68223",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 25.2,
+            "timestamp": 1723537500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Centro_37.97616_-0.68223_0",
+            "name": "Torrevieja - Centro",
+            "lat": "37.97616",
+            "lon": "-0.68223",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 27.8,
+            "timestamp": 1723537500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Centro_37.97616_-0.68223_0",
+            "name": "Torrevieja - Centro",
+            "lat": "37.97616",
+            "lon": "-0.68223",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 0,
+            "timestamp": 1723537500000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - ColegioRomualdo_37.95511_-0.71784_0",
+            "name": "Torrevieja - ColegioRomualdo",
+            "lat": "37.95511",
+            "lon": "-0.71784",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 74,
+            "timestamp": 1722233100000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - ColegioRomualdo_37.95511_-0.71784_0",
+            "name": "Torrevieja - ColegioRomualdo",
+            "lat": "37.95511",
+            "lon": "-0.71784",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1722233100000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - ColegioRomualdo_37.95511_-0.71784_0",
+            "name": "Torrevieja - ColegioRomualdo",
+            "lat": "37.95511",
+            "lon": "-0.71784",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1722233100000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - ColegioRomualdo_37.95511_-0.71784_0",
+            "name": "Torrevieja - ColegioRomualdo",
+            "lat": "37.95511",
+            "lon": "-0.71784",
+            "alt": "0",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1722233100000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - ColegioRomualdo_37.95511_-0.71784_0",
+            "name": "Torrevieja - ColegioRomualdo",
+            "lat": "37.95511",
+            "lon": "-0.71784",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1017.4,
+            "timestamp": 1722233100000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - ColegioRomualdo_37.95511_-0.71784_0",
+            "name": "Torrevieja - ColegioRomualdo",
+            "lat": "37.95511",
+            "lon": "-0.71784",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 21.7,
+            "timestamp": 1722233100000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - ColegioRomualdo_37.95511_-0.71784_0",
+            "name": "Torrevieja - ColegioRomualdo",
+            "lat": "37.95511",
+            "lon": "-0.71784",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 26.7,
+            "timestamp": 1722233100000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - ColegioRomualdo_37.95511_-0.71784_0",
+            "name": "Torrevieja - ColegioRomualdo",
+            "lat": "37.95511",
+            "lon": "-0.71784",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 3,
+            "timestamp": 1722233100000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - ColegioRomualdo_37.95511_-0.71784_0",
+            "name": "Torrevieja - ColegioRomualdo",
+            "lat": "37.95511",
+            "lon": "-0.71784",
+            "alt": "0",
+            "sensor_type": "evaporacionacumulada",
+            "value": 0,
+            "timestamp": 1722233100000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Acequion_37.97999_-0.68862_0",
+            "name": "Torrevieja - Acequion",
+            "lat": "37.97999",
+            "lon": "-0.68862",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 84,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Acequion_37.97999_-0.68862_0",
+            "name": "Torrevieja - Acequion",
+            "lat": "37.97999",
+            "lon": "-0.68862",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Acequion_37.97999_-0.68862_0",
+            "name": "Torrevieja - Acequion",
+            "lat": "37.97999",
+            "lon": "-0.68862",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Acequion_37.97999_-0.68862_0",
+            "name": "Torrevieja - Acequion",
+            "lat": "37.97999",
+            "lon": "-0.68862",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1010.5,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Acequion_37.97999_-0.68862_0",
+            "name": "Torrevieja - Acequion",
+            "lat": "37.97999",
+            "lon": "-0.68862",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 25.2,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Acequion_37.97999_-0.68862_0",
+            "name": "Torrevieja - Acequion",
+            "lat": "37.97999",
+            "lon": "-0.68862",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 28.2,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Acequion_37.97999_-0.68862_0",
+            "name": "Torrevieja - Acequion",
+            "lat": "37.97999",
+            "lon": "-0.68862",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 14.5,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Acequion_37.97999_-0.68862_0",
+            "name": "Torrevieja - Acequion",
+            "lat": "37.97999",
+            "lon": "-0.68862",
+            "alt": "0",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Montesinos - Laguna Norte_38.02156_-0.74198_0",
+            "name": "Los Montesinos - Laguna Norte",
+            "lat": "38.02156",
+            "lon": "-0.74198",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Montesinos - Laguna Norte_38.02156_-0.74198_0",
+            "name": "Los Montesinos - Laguna Norte",
+            "lat": "38.02156",
+            "lon": "-0.74198",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0.2,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Montesinos - Laguna Norte_38.02156_-0.74198_0",
+            "name": "Los Montesinos - Laguna Norte",
+            "lat": "38.02156",
+            "lon": "-0.74198",
+            "alt": "0",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Montesinos - Laguna Norte_38.02156_-0.74198_0",
+            "name": "Los Montesinos - Laguna Norte",
+            "lat": "38.02156",
+            "lon": "-0.74198",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1011,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Montesinos - Laguna Norte_38.02156_-0.74198_0",
+            "name": "Los Montesinos - Laguna Norte",
+            "lat": "38.02156",
+            "lon": "-0.74198",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 6,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Montesinos - Laguna Norte_38.02156_-0.74198_0",
+            "name": "Los Montesinos - Laguna Norte",
+            "lat": "38.02156",
+            "lon": "-0.74198",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 75,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Montesinos - Laguna Norte_38.02156_-0.74198_0",
+            "name": "Los Montesinos - Laguna Norte",
+            "lat": "38.02156",
+            "lon": "-0.74198",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 29.3,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Montesinos - Laguna Norte_38.02156_-0.74198_0",
+            "name": "Los Montesinos - Laguna Norte",
+            "lat": "38.02156",
+            "lon": "-0.74198",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 24.4,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Montesinos - Laguna Norte_38.02156_-0.74198_0",
+            "name": "Los Montesinos - Laguna Norte",
+            "lat": "38.02156",
+            "lon": "-0.74198",
+            "alt": "0",
+            "sensor_type": "radiacionsolar",
+            "value": 394,
+            "timestamp": 1705572600000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Marina Salinas_37.97000_-0.68051_0",
+            "name": "Torrevieja - Marina Salinas",
+            "lat": "37.97000",
+            "lon": "-0.68051",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 79,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Marina Salinas_37.97000_-0.68051_0",
+            "name": "Torrevieja - Marina Salinas",
+            "lat": "37.97000",
+            "lon": "-0.68051",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Marina Salinas_37.97000_-0.68051_0",
+            "name": "Torrevieja - Marina Salinas",
+            "lat": "37.97000",
+            "lon": "-0.68051",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Marina Salinas_37.97000_-0.68051_0",
+            "name": "Torrevieja - Marina Salinas",
+            "lat": "37.97000",
+            "lon": "-0.68051",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1010.4,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Marina Salinas_37.97000_-0.68051_0",
+            "name": "Torrevieja - Marina Salinas",
+            "lat": "37.97000",
+            "lon": "-0.68051",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 24.7,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Marina Salinas_37.97000_-0.68051_0",
+            "name": "Torrevieja - Marina Salinas",
+            "lat": "37.97000",
+            "lon": "-0.68051",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 28.7,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Marina Salinas_37.97000_-0.68051_0",
+            "name": "Torrevieja - Marina Salinas",
+            "lat": "37.97000",
+            "lon": "-0.68051",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 6,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Marina Salinas_37.97000_-0.68051_0",
+            "name": "Torrevieja - Marina Salinas",
+            "lat": "37.97000",
+            "lon": "-0.68051",
+            "alt": "0",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Aguas Nuevas_37.99834_-0.66475_0",
+            "name": "Torrevieja - Aguas Nuevas",
+            "lat": "37.99834",
+            "lon": "-0.66475",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 81,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Aguas Nuevas_37.99834_-0.66475_0",
+            "name": "Torrevieja - Aguas Nuevas",
+            "lat": "37.99834",
+            "lon": "-0.66475",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Aguas Nuevas_37.99834_-0.66475_0",
+            "name": "Torrevieja - Aguas Nuevas",
+            "lat": "37.99834",
+            "lon": "-0.66475",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Aguas Nuevas_37.99834_-0.66475_0",
+            "name": "Torrevieja - Aguas Nuevas",
+            "lat": "37.99834",
+            "lon": "-0.66475",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1013.21,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Aguas Nuevas_37.99834_-0.66475_0",
+            "name": "Torrevieja - Aguas Nuevas",
+            "lat": "37.99834",
+            "lon": "-0.66475",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 24.3,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Aguas Nuevas_37.99834_-0.66475_0",
+            "name": "Torrevieja - Aguas Nuevas",
+            "lat": "37.99834",
+            "lon": "-0.66475",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 27.9,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Aguas Nuevas_37.99834_-0.66475_0",
+            "name": "Torrevieja - Aguas Nuevas",
+            "lat": "37.99834",
+            "lon": "-0.66475",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 16.1,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Aguas Nuevas_37.99834_-0.66475_0",
+            "name": "Torrevieja - Aguas Nuevas",
+            "lat": "37.99834",
+            "lon": "-0.66475",
+            "alt": "0",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_La Mata - Parque Natural_38.02519_-0.65845_0",
+            "name": "La Mata - Parque Natural",
+            "lat": "38.02519",
+            "lon": "-0.65845",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 81,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_La Mata - Parque Natural_38.02519_-0.65845_0",
+            "name": "La Mata - Parque Natural",
+            "lat": "38.02519",
+            "lon": "-0.65845",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_La Mata - Parque Natural_38.02519_-0.65845_0",
+            "name": "La Mata - Parque Natural",
+            "lat": "38.02519",
+            "lon": "-0.65845",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_La Mata - Parque Natural_38.02519_-0.65845_0",
+            "name": "La Mata - Parque Natural",
+            "lat": "38.02519",
+            "lon": "-0.65845",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1010.2,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_La Mata - Parque Natural_38.02519_-0.65845_0",
+            "name": "La Mata - Parque Natural",
+            "lat": "38.02519",
+            "lon": "-0.65845",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 25.4,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_La Mata - Parque Natural_38.02519_-0.65845_0",
+            "name": "La Mata - Parque Natural",
+            "lat": "38.02519",
+            "lon": "-0.65845",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 29,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_La Mata - Parque Natural_38.02519_-0.65845_0",
+            "name": "La Mata - Parque Natural",
+            "lat": "38.02519",
+            "lon": "-0.65845",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 6,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_San Miguel_37.98729_-0.76613_0",
+            "name": "San Miguel",
+            "lat": "37.98729",
+            "lon": "-0.76613",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 71,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_San Miguel_37.98729_-0.76613_0",
+            "name": "San Miguel",
+            "lat": "37.98729",
+            "lon": "-0.76613",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_San Miguel_37.98729_-0.76613_0",
+            "name": "San Miguel",
+            "lat": "37.98729",
+            "lon": "-0.76613",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0.2,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_San Miguel_37.98729_-0.76613_0",
+            "name": "San Miguel",
+            "lat": "37.98729",
+            "lon": "-0.76613",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1008.3,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_San Miguel_37.98729_-0.76613_0",
+            "name": "San Miguel",
+            "lat": "37.98729",
+            "lon": "-0.76613",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 24.5,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_San Miguel_37.98729_-0.76613_0",
+            "name": "San Miguel",
+            "lat": "37.98729",
+            "lon": "-0.76613",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 30.4,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_San Miguel_37.98729_-0.76613_0",
+            "name": "San Miguel",
+            "lat": "37.98729",
+            "lon": "-0.76613",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 4.8,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_Lago Jardin_37.97282_-0.72870_0",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "Lago Jardin",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "humedad",
+            "value": 77,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_Lago Jardin_37.97282_-0.72870_0",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "Lago Jardin",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_Lago Jardin_37.97282_-0.72870_0",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "Lago Jardin",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "presion",
+            "value": 1010.6,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_Lago Jardin_37.97282_-0.72870_0",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "Lago Jardin",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "temperatura",
+            "value": 29.7,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_Lago Jardin_37.97282_-0.72870_0",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "Lago Jardin",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "velocidadviento",
+            "value": 6.4,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_Lago Jardin_37.97282_-0.72870_0",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "Lago Jardin",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_Lago Jardin_37.97282_-0.72870_0",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "Lago Jardin",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_Lago Jardin_37.97282_-0.72870_0",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "Lago Jardin",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "puntoderocio",
+            "value": 25.2,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_Lago Jardin_37.97282_-0.72870_0",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "Lago Jardin",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "velocidad viento",
+            "value": 0,
+            "timestamp": 1685924100000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Rojales - Raso Pequeno_38.05471_-0.69644_0",
+            "name": "Rojales - Raso Pequeno",
+            "lat": "38.05471",
+            "lon": "-0.69644",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Rojales - Raso Pequeno_38.05471_-0.69644_0",
+            "name": "Rojales - Raso Pequeno",
+            "lat": "38.05471",
+            "lon": "-0.69644",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1008.3,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Rojales - Raso Pequeno_38.05471_-0.69644_0",
+            "name": "Rojales - Raso Pequeno",
+            "lat": "38.05471",
+            "lon": "-0.69644",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 72,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Rojales - Raso Pequeno_38.05471_-0.69644_0",
+            "name": "Rojales - Raso Pequeno",
+            "lat": "38.05471",
+            "lon": "-0.69644",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 24.9,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Rojales - Raso Pequeno_38.05471_-0.69644_0",
+            "name": "Rojales - Raso Pequeno",
+            "lat": "38.05471",
+            "lon": "-0.69644",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 30.6,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Rojales - Raso Pequeno_38.05471_-0.69644_0",
+            "name": "Rojales - Raso Pequeno",
+            "lat": "38.05471",
+            "lon": "-0.69644",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 6,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Rojales - Raso Pequeno_38.05471_-0.69644_0",
+            "name": "Rojales - Raso Pequeno",
+            "lat": "38.05471",
+            "lon": "-0.69644",
+            "alt": "0",
+            "sensor_type": "evaporacionacumulada",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Rojales - Raso Pequeno_38.05471_-0.69644_0",
+            "name": "Rojales - Raso Pequeno",
+            "lat": "38.05471",
+            "lon": "-0.69644",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Rojales - Raso Pequeno_38.05471_-0.69644_0",
+            "name": "Rojales - Raso Pequeno",
+            "lat": "38.05471",
+            "lon": "-0.69644",
+            "alt": "0",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - San Luis_38.02427_-0.69740_0",
+            "name": "Torrevieja - San Luis",
+            "lat": "38.02427",
+            "lon": "-0.69740",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 77,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - San Luis_38.02427_-0.69740_0",
+            "name": "Torrevieja - San Luis",
+            "lat": "38.02427",
+            "lon": "-0.69740",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - San Luis_38.02427_-0.69740_0",
+            "name": "Torrevieja - San Luis",
+            "lat": "38.02427",
+            "lon": "-0.69740",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0.2,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - San Luis_38.02427_-0.69740_0",
+            "name": "Torrevieja - San Luis",
+            "lat": "38.02427",
+            "lon": "-0.69740",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 28.5,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - San Luis_38.02427_-0.69740_0",
+            "name": "Torrevieja - San Luis",
+            "lat": "38.02427",
+            "lon": "-0.69740",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 3,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - San Luis_38.02427_-0.69740_0",
+            "name": "Torrevieja - San Luis",
+            "lat": "38.02427",
+            "lon": "-0.69740",
+            "alt": "0",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - San Luis_38.02427_-0.69740_0",
+            "name": "Torrevieja - San Luis",
+            "lat": "38.02427",
+            "lon": "-0.69740",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1012.9,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - San Luis_38.02427_-0.69740_0",
+            "name": "Torrevieja - San Luis",
+            "lat": "38.02427",
+            "lon": "-0.69740",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 24.1,
+            "timestamp": 1723542300000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Europeos - La Mata_38.01718_-0.65404_0",
+            "name": "Los Europeos - La Mata",
+            "lat": "38.01718",
+            "lon": "-0.65404",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 80,
+            "timestamp": 1723542600000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Europeos - La Mata_38.01718_-0.65404_0",
+            "name": "Los Europeos - La Mata",
+            "lat": "38.01718",
+            "lon": "-0.65404",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723542600000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Europeos - La Mata_38.01718_-0.65404_0",
+            "name": "Los Europeos - La Mata",
+            "lat": "38.01718",
+            "lon": "-0.65404",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1723542600000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Europeos - La Mata_38.01718_-0.65404_0",
+            "name": "Los Europeos - La Mata",
+            "lat": "38.01718",
+            "lon": "-0.65404",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1010.2,
+            "timestamp": 1723542600000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Europeos - La Mata_38.01718_-0.65404_0",
+            "name": "Los Europeos - La Mata",
+            "lat": "38.01718",
+            "lon": "-0.65404",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 24.5,
+            "timestamp": 1723542600000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Europeos - La Mata_38.01718_-0.65404_0",
+            "name": "Los Europeos - La Mata",
+            "lat": "38.01718",
+            "lon": "-0.65404",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 28.3,
+            "timestamp": 1723542600000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Europeos - La Mata_38.01718_-0.65404_0",
+            "name": "Los Europeos - La Mata",
+            "lat": "38.01718",
+            "lon": "-0.65404",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 10,
+            "timestamp": 1723542600000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Europeos - La Mata_38.01718_-0.65404_0",
+            "name": "Los Europeos - La Mata",
+            "lat": "38.01718",
+            "lon": "-0.65404",
+            "alt": "0",
+            "sensor_type": "evaporacionacumulada",
+            "value": 0,
+            "timestamp": 1723542600000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Europeos - La Mata_38.01718_-0.65404_0",
+            "name": "Los Europeos - La Mata",
+            "lat": "38.01718",
+            "lon": "-0.65404",
+            "alt": "0",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1723542600000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Los Europeos - La Mata_38.01718_-0.65404_0",
+            "name": "Los Europeos - La Mata",
+            "lat": "38.01718",
+            "lon": "-0.65404",
+            "alt": "0",
+            "sensor_type": "radiacionsolar",
+            "value": 0,
+            "timestamp": 1705506900000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Waldo Calero - Torrevieja_37.97616_-0.68039_0",
+            "name": "Waldo Calero - Torrevieja",
+            "lat": "37.97616",
+            "lon": "-0.68039",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 79,
+            "timestamp": 1723542540000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Waldo Calero - Torrevieja_37.97616_-0.68039_0",
+            "name": "Waldo Calero - Torrevieja",
+            "lat": "37.97616",
+            "lon": "-0.68039",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723542540000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Waldo Calero - Torrevieja_37.97616_-0.68039_0",
+            "name": "Waldo Calero - Torrevieja",
+            "lat": "37.97616",
+            "lon": "-0.68039",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1723542540000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Waldo Calero - Torrevieja_37.97616_-0.68039_0",
+            "name": "Waldo Calero - Torrevieja",
+            "lat": "37.97616",
+            "lon": "-0.68039",
+            "alt": "0",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1723542540000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Waldo Calero - Torrevieja_37.97616_-0.68039_0",
+            "name": "Waldo Calero - Torrevieja",
+            "lat": "37.97616",
+            "lon": "-0.68039",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1008,
+            "timestamp": 1723542540000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Waldo Calero - Torrevieja_37.97616_-0.68039_0",
+            "name": "Waldo Calero - Torrevieja",
+            "lat": "37.97616",
+            "lon": "-0.68039",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 24.3,
+            "timestamp": 1723542540000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Waldo Calero - Torrevieja_37.97616_-0.68039_0",
+            "name": "Waldo Calero - Torrevieja",
+            "lat": "37.97616",
+            "lon": "-0.68039",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 28.3,
+            "timestamp": 1723542540000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Waldo Calero - Torrevieja_37.97616_-0.68039_0",
+            "name": "Waldo Calero - Torrevieja",
+            "lat": "37.97616",
+            "lon": "-0.68039",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 5,
+            "timestamp": 1723542540000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_La Mata - Restaurante Alma_38.02185_-0.65372_0",
+            "name": "La Mata - Restaurante Alma",
+            "lat": "38.02185",
+            "lon": "-0.65372",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1705506600000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_La Mata - Restaurante Alma_38.02185_-0.65372_0",
+            "name": "La Mata - Restaurante Alma",
+            "lat": "38.02185",
+            "lon": "-0.65372",
+            "alt": "0",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1705506600000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_La Mata - Restaurante Alma_38.02185_-0.65372_0",
+            "name": "La Mata - Restaurante Alma",
+            "lat": "38.02185",
+            "lon": "-0.65372",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1003,
+            "timestamp": 1705506600000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_La Mata - Restaurante Alma_38.02185_-0.65372_0",
+            "name": "La Mata - Restaurante Alma",
+            "lat": "38.02185",
+            "lon": "-0.65372",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1705506600000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_La Mata - Restaurante Alma_38.02185_-0.65372_0",
+            "name": "La Mata - Restaurante Alma",
+            "lat": "38.02185",
+            "lon": "-0.65372",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 13.1,
+            "timestamp": 1705506600000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_La Mata - Restaurante Alma_38.02185_-0.65372_0",
+            "name": "La Mata - Restaurante Alma",
+            "lat": "38.02185",
+            "lon": "-0.65372",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": -16.9,
+            "timestamp": 1689119400000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_La Mata - Restaurante Alma_38.02185_-0.65372_0",
+            "name": "La Mata - Restaurante Alma",
+            "lat": "38.02185",
+            "lon": "-0.65372",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 99,
+            "timestamp": 1689119700000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_La Mata - Restaurante Alma_38.02185_-0.65372_0",
+            "name": "La Mata - Restaurante Alma",
+            "lat": "38.02185",
+            "lon": "-0.65372",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": -17,
+            "timestamp": 1689119700000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_NaN_37.97282_-0.72870",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "NaN",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1689119700000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_NaN_37.97282_-0.72870",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "NaN",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "puntoderocio",
+            "value": 25.6,
+            "timestamp": 1689119700000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_NaN_37.97282_-0.72870",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "NaN",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "humedad",
+            "value": 92,
+            "timestamp": 1689119400000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_NaN_37.97282_-0.72870",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "NaN",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1689119700000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_NaN_37.97282_-0.72870",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "NaN",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "velocidadviento",
+            "value": 1.6,
+            "timestamp": 1689119400000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_NaN_37.97282_-0.72870",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "NaN",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "temperatura",
+            "value": 27.2,
+            "timestamp": 1689119100000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_NaN_37.97282_-0.72870",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "NaN",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1689119400000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_NaN_37.97282_-0.72870",
+            "name": "Torrevieja - Los Balcones",
+            "lat": "NaN",
+            "lon": "37.97282",
+            "alt": "-0.72870",
+            "sensor_type": "presion",
+            "value": 1014.3,
+            "timestamp": 1689119100000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.97845_-0.70204_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.97845",
+            "lon": "-0.70204",
+            "alt": "0",
+            "sensor_type": "evaporacionacumulada",
+            "value": 0.3,
+            "timestamp": 1723187700000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.97845_-0.70204_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.97845",
+            "lon": "-0.70204",
+            "alt": "0",
+            "sensor_type": "humedad",
+            "value": 79,
+            "timestamp": 1723187700000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.97845_-0.70204_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.97845",
+            "lon": "-0.70204",
+            "alt": "0",
+            "sensor_type": "indiceuv",
+            "value": 0.7,
+            "timestamp": 1723187700000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.97845_-0.70204_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.97845",
+            "lon": "-0.70204",
+            "alt": "0",
+            "sensor_type": "intensidadlluvia",
+            "value": 0,
+            "timestamp": 1723187700000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.97845_-0.70204_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.97845",
+            "lon": "-0.70204",
+            "alt": "0",
+            "sensor_type": "lluvia",
+            "value": 0,
+            "timestamp": 1723187700000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.97845_-0.70204_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.97845",
+            "lon": "-0.70204",
+            "alt": "0",
+            "sensor_type": "lluviaultimahora",
+            "value": 0,
+            "timestamp": 1723187700000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.97845_-0.70204_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.97845",
+            "lon": "-0.70204",
+            "alt": "0",
+            "sensor_type": "presion",
+            "value": 1017.6,
+            "timestamp": 1723187700000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.97845_-0.70204_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.97845",
+            "lon": "-0.70204",
+            "alt": "0",
+            "sensor_type": "puntoderocio",
+            "value": 22.6,
+            "timestamp": 1723187700000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.97845_-0.70204_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.97845",
+            "lon": "-0.70204",
+            "alt": "0",
+            "sensor_type": "radiacionsolar",
+            "value": 263,
+            "timestamp": 1723187700000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.97845_-0.70204_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.97845",
+            "lon": "-0.70204",
+            "alt": "0",
+            "sensor_type": "temperatura",
+            "value": 26.6,
+            "timestamp": 1723187700000
+        },
+        {
+            "location_id": "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.97845_-0.70204_0",
+            "name": "Torrevieja - Salinas 1",
+            "lat": "37.97845",
+            "lon": "-0.70204",
+            "alt": "0",
+            "sensor_type": "velocidadviento",
+            "value": 3,
+            "timestamp": 1723187700000
+        }
+    ]
+}
