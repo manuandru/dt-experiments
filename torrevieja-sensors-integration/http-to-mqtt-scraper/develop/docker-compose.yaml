@@ -1,0 +1,24 @@
+include:
+  - path: http-server/docker-compose.yaml
+
+services:
+  mqtt-broker:
+    image: emqx/nanomq:latest
+
+  http-to-mqtt-scraper:
+    build:
+      context: ../
+      dockerfile: Dockerfile
+    depends_on:
+      - mqtt-broker
+      - server
+    restart: always
+    environment:
+      - MQTT_BROKER=mqtt-broker
+      - MQTT_PORT=1883
+      - HTTP_ENDPOINTS=http://server:3000/weather,http://server:3000/buoy
+    develop:
+      watch:
+        - action: rebuild
+          path: ../
+          target: /app
