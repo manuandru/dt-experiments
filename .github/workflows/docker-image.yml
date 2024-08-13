@@ -1,0 +1,20 @@
+name: CI & CD
+
+on:
+  push:
+  workflow_dispatch:
+    inputs:
+      deploy:
+        description: 'True to deploy the image to Docker Hub'
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Test python 
+      run: |
+        python torrevieja-sensors-integration/http-to-mqtt-scraper/src/test/sensor_types_test.py
