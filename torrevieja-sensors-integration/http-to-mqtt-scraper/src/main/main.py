@@ -11,7 +11,7 @@ HTTP_ENDPOINTS = os.environ.get(
     'HTTP_ENDPOINTS',
     "http://localhost:3000/buoy,http://localhost:3000/weather"
 )
-SLEEP_TIME_SECONDS = os.environ.get('SLEEP_TIME', 10)
+HTTP_POLL_INTERVAL_SECONDS = int(os.environ.get('HTTP_POLL_INTERVAL_SECONDS', 10))
 MQTT_BROKER = os.environ.get('MQTT_BROKER', 'localhost')
 MQTT_PORT = int(os.environ.get('MQTT_PORT', 1883))
 
@@ -45,4 +45,4 @@ if __name__ == '__main__':
                     qos=1
                 )
 
-        time.sleep(SLEEP_TIME_SECONDS)
+        time.sleep(HTTP_POLL_INTERVAL_SECONDS)
