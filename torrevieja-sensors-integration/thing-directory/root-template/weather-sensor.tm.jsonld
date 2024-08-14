@@ -38,11 +38,12 @@
             "type": "string",
             "readOnly": true
         },
-        "sensorId": {
-            "title": "Sensor ID",
-            "description": "The unique identifier of the weather station.",
+        "sensorType": {
+            "title": "Sensor Type",
+            "description": "The type of the station.",
             "type": "string",
-            "readOnly": true
+            "readOnly": true,
+            "default": "weather-sensor"
         },
         "coordinate": {
             "title": "Geographic Coordinates",

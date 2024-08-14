@@ -32,11 +32,12 @@
             "type": "string",
             "readOnly": true
         },
-        "sensorId": {
-            "title": "Sensor ID",
-            "description": "The unique identifier of the buoy station.",
+        "sensorType": {
+            "title": "Sensor Type",
+            "description": "The type of the station.",
             "type": "string",
-            "readOnly": true
+            "readOnly": true,
+            "default": "buoy"
         },
         "coordinate": {
             "title": "Geographic Coordinates",
