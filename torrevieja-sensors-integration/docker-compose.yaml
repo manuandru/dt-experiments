@@ -3,3 +3,9 @@ include:
     project_directory: ditto/deployment/docker
   - path: thing-directory/docker-compose.yaml
     project_directory: thing-directory
+
+services:
+  mqtt-broker:
+    image: emqx/nanomq:latest
+    ports:
+      - "1883:1883"
