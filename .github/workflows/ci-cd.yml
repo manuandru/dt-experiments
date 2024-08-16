@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - torrevieja-sensors-integration/http-to-mqtt-scraper/**
+      - torrevieja-sensors-integration/ditto-provisioner/**
 
 jobs:
   test:
@@ -31,10 +32,17 @@ jobs:
       with:
         username: ${{ secrets.DOCKERHUB_MANUANDRU_USERNAME }}
         password: ${{ secrets.DOCKERHUB_MANUANDRU_TOKEN }}
-    - name: Build and push
+    - name: Build and push http-to-mqtt-scraper
       uses: docker/build-push-action@v6
       with:
         push: true
         context: torrevieja-sensors-integration/http-to-mqtt-scraper
         platforms: linux/amd64,linux/arm64
         tags: manuandru/torrevieja-http-to-mqtt-scraper:latest
+    - name: Build and push ditto-provisioner
+      uses: docker/build-push-action@v6
+      with:
+        push: true
+        context: torrevieja-sensors-integration/ditto-provisioner
+        platforms: linux/amd64,linux/arm64
+        tags: manuandru/torrevieja-ditto-provisioner:latest
