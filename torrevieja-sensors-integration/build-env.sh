@@ -20,5 +20,6 @@ for file in $(ls thing-directory/root/*.jsonld); do
 done
 
 # Replace all environment variables in for thing-provisioner deployment
-file=ditto-provisioner/thing/thing-description.json
-THING_DIRECTORY=$THING_DIRECTORY envsubst < $file.template > $file
+JAVASCRIPT_MAPPER=ditto-provisioner/connection/javascript-mapper.js
+THING_DESCRIPTION=ditto-provisioner/thing/thing-description.json
+./ditto-provisioner/build-env.sh $JAVASCRIPT_MAPPER $THING_DESCRIPTION
