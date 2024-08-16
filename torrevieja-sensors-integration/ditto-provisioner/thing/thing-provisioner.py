@@ -4,7 +4,7 @@ import os, json, requests
 from base64 import b64encode
 
 THING_DESCRIPTION_CONFIG_FILE = os.environ.get('THING_DESCRIPTION_CONFIG_FILE', 'thing-description.json')
-DITTO_GATEWAY = os.environ.get('DITTO_GATEWAY', 'http://nginx:8080')
+DITTO_GATEWAY = os.environ.get('DITTO_GATEWAY', 'http://nginx')
 DITTO_USERNAME = os.environ.get('DITTO_USERNAME', 'ditto')
 DITTO_PASSWORD = os.environ.get('DITTO_PASSWORD', 'ditto')
 
