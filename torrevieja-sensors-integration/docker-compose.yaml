@@ -3,6 +3,8 @@ include:
     project_directory: ditto/deployment/docker
   - path: thing-directory/docker-compose.yaml
     project_directory: thing-directory
+  - path: http-to-mqtt-scraper/docker-compose.yaml
+    project_directory: http-to-mqtt-scraper
 
 services:
   mqtt-broker:
