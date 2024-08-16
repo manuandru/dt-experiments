@@ -20,5 +20,5 @@ for file in $(ls thing-directory/root/*.jsonld); do
 done
 
 # Replace all environment variables in for thing-provisioner deployment
-file=ditto-thing-provisioner/thing-description.json
+file=ditto-provisioner/thing/thing-description.json
 THING_DIRECTORY=$THING_DIRECTORY envsubst < $file.template > $file
