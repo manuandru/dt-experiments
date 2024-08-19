@@ -18,6 +18,24 @@ services:
       - influxdb2-data:/var/lib/influxdb2:rw
       - influxdb2-config:/etc/influxdb2:rw
 
+  telegraf:
+    image: telegraf:1.31
+    configs:
+      - source: telegraf-config
+        target: /etc/telegraf/telegraf.conf
+    environment:
+      - MQTT_BROKER=${MQTT_BROKER:-tcp://mqtt-broker:1883}
+      - INFLUXDB_URL=${INFLUXDB_URL:-http://influxdb:8086}
+      - INFLUXDB_ORG=${INFLUXDB_ORG:-manuandru}
+      - INFLUXDB_BUCKET=${INFLUXDB_BUCKET:-torrevieja}
+      - INFLUXDB_TOKEN=${INFLUXDB_TOKEN:-token}
+    depends_on:
+      - influxdb
+
+configs:
+  telegraf-config:
+    file: ./telegraf.conf
+
 secrets:
   influxdb2-admin-username:
     file: ./.env.influxdb2-admin-username
