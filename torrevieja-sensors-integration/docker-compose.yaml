@@ -5,6 +5,8 @@ include:
     project_directory: thing-directory
   - path: http-to-mqtt-scraper/docker-compose.yaml
     project_directory: http-to-mqtt-scraper
+  - path: db/docker-compose.yaml
+    project_directory: db
 
 services:
   mqtt-broker:
