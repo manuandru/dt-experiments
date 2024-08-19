@@ -1,0 +1,11 @@
+include:
+  - path: ../docker-compose.yaml
+    project_directory: ../
+  - path: ../../http-to-mqtt-scraper/docker-compose.yaml
+    project_directory: ../../http-to-mqtt-scraper
+
+services:
+  mqtt-broker:
+    image: emqx/nanomq:latest
+    ports:
+      - "1883:1883"
