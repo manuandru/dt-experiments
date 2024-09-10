@@ -1,6 +1,6 @@
-# HTTP to MQTT Scraper
+# Torrevieja Injector - HTTP scraper to MQTT
 
-This is a HTTP to MQTT scraper module that reads data from HTTP endpoints and publishes it to a MQTT broker. The module specifies the mapping function that is used to map the data from the HTTP source to the MQTT message payload.
+This is an Injector module that reads data from HTTP endpoints and publishes it to MQTT broker. The module specifies the mapping function that is used to map the data from the HTTP source to the MQTT message payload.
 
 ## Configuration
 
