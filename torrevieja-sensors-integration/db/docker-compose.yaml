@@ -3,6 +3,7 @@ services:
     image: influxdb:2
     ports:
       - "8086:8086"
+    restart: unless-stopped
     environment:
       DOCKER_INFLUXDB_INIT_MODE: setup
       DOCKER_INFLUXDB_INIT_USERNAME_FILE: /run/secrets/influxdb2-admin-username
@@ -23,6 +24,7 @@ services:
     configs:
       - source: telegraf-config
         target: /etc/telegraf/telegraf.conf
+    restart: unless-stopped
     environment:
       - MQTT_BROKER=${MQTT_BROKER:-tcp://mqtt-broker:1883}
       - INFLUXDB_URL=${INFLUXDB_URL:-http://influxdb:8086}
