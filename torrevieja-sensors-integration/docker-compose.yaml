@@ -15,7 +15,9 @@ services:
       - "1883:1883"
 
   provisioner:
-    image: manuandru/torrevieja-ditto-provisioner
+    build:
+      context: ./ditto-provisioner
+      dockerfile: Dockerfile
     depends_on:
       nginx:
         condition: service_started

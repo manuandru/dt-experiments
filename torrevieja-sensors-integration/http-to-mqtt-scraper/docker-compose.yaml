@@ -1,7 +1,9 @@
 services:
 
   http-to-mqtt-scraper:
-    image: manuandru/torrevieja-http-to-mqtt-scraper:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
     restart: unless-stopped
     environment:
       - MQTT_BROKER=${MQTT_BROKER}
