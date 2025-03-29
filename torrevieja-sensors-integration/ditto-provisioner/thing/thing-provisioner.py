@@ -25,23 +25,29 @@ def main():
 
     already_provisioned = set()
 
-    for thing_config in config:
-        response = get_thing_from_url(thing_config['endpoint'])
+    for endpoint in config['endpoints']:
+        response = get_thing_from_url(endpoint)
         if 'data' not in response:
             raise Exception('No data in response')
         
         for thing in response['data']:
+
+            try:
+                thing_description = config['thingDescription'][thing['location_id']]
+            except KeyError:
+                print(f"No thing description for {thing}")
+                continue
 
             ditto_request_headers = {
                 'Content-Type': 'application/json',
                 'Accept': 'application/json'
             }
             ditto_request_payload = {
-                'definition': thing_config['thingDescription'],
+                'definition': thing_description,
                 'attributes': {
                     'location_id': thing['location_id'],
                     'name': thing['name'],
-                    'coordinates': {
+                    'coordinate': {
                         'latitude': thing['lat'],
                         'longitude': thing['lon'],
                         'altitude': thing['alt']
@@ -63,6 +69,8 @@ def main():
                 json=ditto_request_payload
             )
             response.raise_for_status()
+
+    print(f"Provisioned {len(already_provisioned)} sensors")
 
 if __name__ == '__main__':
     main()

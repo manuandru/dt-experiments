@@ -1,22 +1,71 @@
-[
-    {
-        "endpoint": "https://platon.grc.upv.es/sensingtools-api/api/user-hard-sensors/UVztVI0BaNT-uedBhHl1/data/latest-values",
-        "thingDescription": "$THING_DIRECTORY/buoy.tm.jsonld"
-    },
-    {
-        "endpoint": "https://platon.grc.upv.es/sensingtools-api/api/user-hard-sensors/jRCJ548B1ljoqTiFLu0b/data/latest-values",
-        "thingDescription": "$THING_DIRECTORY/depth-sensor.tm.jsonld"
-    },
-    {
-        "endpoint": "https://platon.grc.upv.es/sensingtools-api/api/user-hard-sensors/cVDqRI0BmK9pjniFeoOV/data/latest-values",
-        "thingDescription": "$THING_DIRECTORY/sonometer.tm.jsonld"
-    },
-    {
-        "endpoint": "https://platon.grc.upv.es/sensingtools-api/api/user-hard-sensors/hup4zYsBoTGoLusGWiIj/data/latest-values",
-        "thingDescription": "$THING_DIRECTORY/visitor-counter.tm.jsonld"
-    },
-    {
-        "endpoint": "https://platon.grc.upv.es/sensingtools-api/api/user-hard-sensors/5rTM-4sB-iVpGSRJcSJV/data/latest-values",
-        "thingDescription": "$THING_DIRECTORY/weather-sensor.tm.jsonld"
+{
+    "endpoints": [
+        "https://platon.grc.upv.es/sensingtools-api/api/user-hard-sensors/UVztVI0BaNT-uedBhHl1/data/latest-values","https://platon.grc.upv.es/sensingtools-api/api/user-hard-sensors/hup4zYsBoTGoLusGWiIj/data/latest-values",
+        "https://platon.grc.upv.es/sensingtools-api/api/user-hard-sensors/jRCJ548B1ljoqTiFLu0b/data/latest-values",
+        "https://platon.grc.upv.es/sensingtools-api/api/user-hard-sensors/cVDqRI0BmK9pjniFeoOV/data/latest-values",
+        "https://platon.grc.upv.es/sensingtools-api/api/user-hard-sensors/5rTM-4sB-iVpGSRJcSJV/data/latest-values"
+    ],
+    "thingDescription": {
+        "UVztVI0BaNT-uedBhHl1_Profundidad: -0.2m_38.03635_-0.68998_-2.2": "$THING_DIRECTORY/buoy.tm.jsonld",
+        "UVztVI0BaNT-uedBhHl1_Profundidad: -0.7m_38.03635_-0.68998_-2.7": "$THING_DIRECTORY/buoy.tm.jsonld",
+        "UVztVI0BaNT-uedBhHl1_Profundidad: -0.2m_38.03916_-0.68968_-2.2": "$THING_DIRECTORY/buoy.tm.jsonld",
+        "UVztVI0BaNT-uedBhHl1_Profundidad: -0.7m_38.03916_-0.68968_-2.7": "$THING_DIRECTORY/buoy.tm.jsonld",
+
+        "hup4zYsBoTGoLusGWiIj_entrada-outdoor_38.02497_-0.65828_0": "$THING_DIRECTORY/visitor-counter.tm.jsonld",
+        "hup4zYsBoTGoLusGWiIj_cementerio-outdoor_38.02053_-0.66530_0": "$THING_DIRECTORY/visitor-counter.tm.jsonld",
+        "hup4zYsBoTGoLusGWiIj_centro_38.02516_-0.65839_8": "$THING_DIRECTORY/visitor-counter.tm.jsonld",
+        "hup4zYsBoTGoLusGWiIj_centro-indoor_38.02516_-0.65839_0": "$THING_DIRECTORY/visitor-counter.tm.jsonld",
+
+        "jRCJ548B1ljoqTiFLu0b_mqtt_consumerNivel laguna_38.02050_-0.66930_1": "$THING_DIRECTORY/depth-sensor.tm.jsonld",
+        "jRCJ548B1ljoqTiFLu0b_A mano_38.02050_-0.66930_0": "$THING_DIRECTORY/salinity-sensor.tm.jsonld",
+
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono9-th/up_38.02236_-0.68664_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono4-th/up_38.02795_-0.69860_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono13-th/up_38.01433_-0.67529_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono17-th/up_38.01653_-0.67334_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono18-th/up_38.02488_-0.66049_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono14-th/up_38.02038_-0.66949_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono3-th/up_38.03126_-0.70806_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono16-th/up_38.02613_-0.66430_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono11-th/up_38.01061_-0.67582_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono12-th/up_38.02732_-0.66063_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono5-th/up_38.02495_-0.69534_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono6-th/up_38.02721_-0.69303_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono1-th/up_38.02951_-0.70819_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono2-th/up_38.03205_-0.71398_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono15-th/up_38.01997_-0.67206_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono7-th/up_38.02284_-0.68894_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono10-th/up_38.01614_-0.68082_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono-ciudad/up_37.97612_-0.68054_20": "$THING_DIRECTORY/sonometer.tm.jsonld",
+        "cVDqRI0BmK9pjniFeoOV_v3/red-sonometros-temphum@ttn/devices/sono8-th/up_38.02042_-0.68887_0.8": "$THING_DIRECTORY/sonometer.tm.jsonld",
+
+        "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Locos_37.98490_-0.65878_0": "$THING_DIRECTORY/weather-sensor-11-1.tm.jsonld",
+
+        "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.99140_-0.72018_0": "$THING_DIRECTORY/weather-sensor-11-2.tm.jsonld",
+        "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salinas 1_37.97845_-0.70204_0": "$THING_DIRECTORY/weather-sensor-11-2.tm.jsonld",
+
+        "5rTM-4sB-iVpGSRJcSJV_Los Europeos - La Mata_38.01718_-0.65404_0": "$THING_DIRECTORY/weather-sensor-10-1.tm.jsonld",
+
+        "5rTM-4sB-iVpGSRJcSJV_Torrevieja - IesTorrevigia_37.99866_-0.69584_0": "$THING_DIRECTORY/weather-sensor-09-1.tm.jsonld",
+        "5rTM-4sB-iVpGSRJcSJV_Rojales - Raso Pequeno_38.05471_-0.69644_0": "$THING_DIRECTORY/weather-sensor-09-1.tm.jsonld",
+        "5rTM-4sB-iVpGSRJcSJV_Torrevieja - ColegioRomualdo_37.95511_-0.71784_0": "$THING_DIRECTORY/weather-sensor-09-1.tm.jsonld",
+
+        "5rTM-4sB-iVpGSRJcSJV_Los Montesinos - Laguna Norte_38.02156_-0.74198_0": "$THING_DIRECTORY/weather-sensor-09-2.tm.jsonld",
+
+        "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Salvador Ruso_37.98507_-0.67235_0": "$THING_DIRECTORY/weather-sensor-09-3.tm.jsonld",
+
+        "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_Lago Jardin_37.97282_-0.72870_0": "$THING_DIRECTORY/weather-sensor-09-4.tm.jsonld",
+
+        "5rTM-4sB-iVpGSRJcSJV_Torrevieja - San Luis_38.02427_-0.69740_0": "$THING_DIRECTORY/weather-sensor-08-1.tm.jsonld",
+        "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Marina Salinas_37.97000_-0.68051_0": "$THING_DIRECTORY/weather-sensor-08-1.tm.jsonld",
+        "5rTM-4sB-iVpGSRJcSJV_Waldo Calero - Torrevieja_37.97616_-0.68039_0": "$THING_DIRECTORY/weather-sensor-08-1.tm.jsonld",
+        "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Los Balcones_NaN_37.97282_-0.72870": "$THING_DIRECTORY/weather-sensor-08-1.tm.jsonld",
+        "5rTM-4sB-iVpGSRJcSJV_La Mata - Restaurante Alma_38.02185_-0.65372_0": "$THING_DIRECTORY/weather-sensor-08-1.tm.jsonld",
+        "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Centro_37.97616_-0.68223_0": "$THING_DIRECTORY/weather-sensor-08-1.tm.jsonld",
+        "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Aguas Nuevas_37.99834_-0.66475_0": "$THING_DIRECTORY/weather-sensor-08-1.tm.jsonld",
+        "5rTM-4sB-iVpGSRJcSJV_Torrevieja - Acequion_37.97999_-0.68862_0": "$THING_DIRECTORY/weather-sensor-08-1.tm.jsonld",
+
+        "5rTM-4sB-iVpGSRJcSJV_San Miguel_37.98729_-0.76613_0": "$THING_DIRECTORY/weather-sensor-07-1.tm.jsonld",
+        "5rTM-4sB-iVpGSRJcSJV_La Mata - Parque Natural_38.02519_-0.65845_0": "$THING_DIRECTORY/weather-sensor-07-1.tm.jsonld"
     }
-]
+}
