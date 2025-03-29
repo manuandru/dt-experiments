@@ -9,10 +9,10 @@
     },
     "tm:optional": [],
     "properties": {
-        "rain": {
+        "value": {
             "title": "Rain",
             "description": "Rain value",
-            "type": "integer"
+            "type": "number"
         }
     }
 }

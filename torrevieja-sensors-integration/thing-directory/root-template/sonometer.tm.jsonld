@@ -45,18 +45,24 @@
             "readOnly": true,
             "default": "sonometer"
         },
+        "location_id": {
+            "title": "Location ID",
+            "description": "The location ID of the sonometer sensor.",
+            "type": "string",
+            "readOnly": true
+        },
         "coordinate": {
             "title": "Geographic Coordinates",
             "description": "The geographic coordinates of the sonometer sensor.",
             "@type": "geo:GeoCoordinates",
             "properties": {
                 "latitude": {
-                    "type": "number",
+                    "type": "string",
                     "description": "The latitude of the sonometer sensor.",
                     "readOnly": true
                 },
                 "longitude": {
-                    "type": "number",
+                    "type": "string",
                     "description": "The longitude of the sonometer sensor.",
                     "readOnly": true
                 }

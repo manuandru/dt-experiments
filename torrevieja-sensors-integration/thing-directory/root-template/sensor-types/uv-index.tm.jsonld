@@ -3,16 +3,16 @@
         "https://www.w3.org/2022/wot/td/v1.1"
     ],
     "@type": "tm:ThingModel",
-    "title": "Wind speed sensor",
+    "title": "UV index sensor",
     "version": {
         "model": "1.0.0"
     },
     "tm:optional": [],
     "properties": {
-        "windSpeed": {
-            "title": "Wind speed",
-            "description": "Wind speed value",
-            "type": "integer"
+        "value": {
+            "title": "UV Index",
+            "description": "UV index value",
+            "type": "number"
         }
     }
 }

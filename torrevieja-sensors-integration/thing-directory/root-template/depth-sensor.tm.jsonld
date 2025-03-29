@@ -16,7 +16,7 @@
             "rel": "tm:submodel",
             "href": "$THING_DIRECTORY/sensor-types/depth.tm.jsonld",
             "type": "application/tm+json",
-            "instanceName": "depth"
+            "instanceName": "profundidad"
         }
     ],
     "tm:optional": [],
@@ -33,18 +33,24 @@
             "readOnly": true,
             "default": "depth-sensor"
         },
+        "location_id": {
+            "title": "Location ID",
+            "description": "The location ID of the lagoon depth sensor.",
+            "type": "string",
+            "readOnly": true
+        },
         "coordinate": {
             "title": "Geographic Coordinates",
             "description": "The geographic coordinates of the lagoon depth sensor.",
             "@type": "geo:GeoCoordinates",
             "properties": {
                 "latitude": {
-                    "type": "number",
+                    "type": "string",
                     "description": "The latitude of the lagoon depth sensor.",
                     "readOnly": true
                 },
                 "longitude": {
-                    "type": "number",
+                    "type": "string",
                     "description": "The longitude of the lagoon depth sensor.",
                     "readOnly": true
                 }

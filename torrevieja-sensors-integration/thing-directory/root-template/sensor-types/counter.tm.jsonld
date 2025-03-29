@@ -9,10 +9,10 @@
     },
     "tm:optional": [],
     "properties": {
-        "count": {
+        "value": {
             "title": "Counter",
             "description": "Counter value",
-            "type": "integer"
+            "type": "number"
         }
     }
 }

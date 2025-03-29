@@ -9,10 +9,10 @@
     },
     "tm:optional": [],
     "properties": {
-        "windDirection": {
+        "value": {
             "title": "Wind direction",
             "description": "Wind direction value",
-            "type": "integer"
+            "type": "number"
         }
     }
 }

@@ -9,10 +9,10 @@
     },
     "tm:optional": [],
     "properties": {
-        "temperature": {
+        "value": {
             "title": "Temperature",
             "description": "Temperature value",
-            "type": "integer"
+            "type": "number"
         }
     }
 }

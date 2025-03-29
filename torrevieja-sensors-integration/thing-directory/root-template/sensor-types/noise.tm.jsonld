@@ -9,10 +9,10 @@
     },
     "tm:optional": [],
     "properties": {
-        "noise": {
+        "value": {
             "title": "Noise",
             "description": "Noise value",
-            "type": "integer"
+            "type": "number"
         }
     }
 }

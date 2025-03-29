@@ -39,18 +39,24 @@
             "readOnly": true,
             "default": "buoy"
         },
+        "location_id": {
+            "title": "Location ID",
+            "description": "The location ID of the buoy station.",
+            "type": "string",
+            "readOnly": true
+        },
         "coordinate": {
             "title": "Geographic Coordinates",
             "description": "The geographic coordinates of the buoy station.",
             "@type": "geo:GeoCoordinates",
             "properties": {
                 "latitude": {
-                    "type": "number",
+                    "type": "string",
                     "description": "The latitude of the buoy station.",
                     "readOnly": true
                 },
                 "longitude": {
-                    "type": "number",
+                    "type": "string",
                     "description": "The longitude of the buoy station.",
                     "readOnly": true
                 }

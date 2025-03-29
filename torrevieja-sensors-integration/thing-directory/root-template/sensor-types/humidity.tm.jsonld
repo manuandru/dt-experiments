@@ -9,10 +9,10 @@
     },
     "tm:optional": [],
     "properties": {
-        "humidity": {
+        "value": {
             "title": "Humidity",
             "description": "Humidity value",
-            "type": "integer"
+            "type": "number"
         }
     }
 }

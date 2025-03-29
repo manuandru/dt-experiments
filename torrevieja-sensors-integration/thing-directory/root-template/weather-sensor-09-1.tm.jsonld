@@ -1,0 +1,115 @@
+{
+    "@context": [
+        "https://www.w3.org/2022/wot/td/v1.1",
+        {
+            "geo": "https://schema.org/GeoCoordinates"
+        }
+    ],
+    "@type": "tm:ThingModel",
+    "title": "Weather Station",
+    "description": "A weather station that provides various weather data.",
+    "version": {
+        "model": "1.0.0"
+    },
+    "links": [
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/accumulated-evaporation.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "evaporacionacumulada"
+        },
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/humidity.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "humedad"
+        },
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/rain.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "lluvia"
+        },
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/rain-last-hour.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "lluviaultimahora"
+        },
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/rain-intensity.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "intensidadlluvia"
+        },
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/pressure.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "presion"
+        },
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/temperature.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "temperatura"
+        },
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/dew-point.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "puntoderocio"
+        },
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/wind-speed.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "velocidadviento"
+        }
+    ],
+    "tm:optional": [],
+    "properties": {
+        "name": {
+            "title": "Name of the weather station",
+            "type": "string",
+            "readOnly": true
+        },
+        "sensorType": {
+            "title": "Sensor Type",
+            "description": "The type of the station.",
+            "type": "string",
+            "readOnly": true,
+            "default": "weather-sensor"
+        },
+        "sensorDiscriminant": {
+            "title": "Sensor discriminant",
+            "description": "The sensor discriminant of the weather station.",
+            "type": "string",
+            "readOnly": true,
+            "default": "09-1"
+        },
+        "location_id": {
+            "title": "Location ID",
+            "description": "The location ID of the weather station.",
+            "type": "string",
+            "readOnly": true
+        },
+        "coordinate": {
+            "title": "Geographic Coordinates",
+            "description": "The geographic coordinates of the weather station.",
+            "@type": "geo:GeoCoordinates",
+            "properties": {
+                "latitude": {
+                    "type": "string",
+                    "description": "The latitude of the weather station.",
+                    "readOnly": true
+                },
+                "longitude": {
+                    "type": "string",
+                    "description": "The longitude of the weather station.",
+                    "readOnly": true
+                }
+            }
+        }
+    }
+}

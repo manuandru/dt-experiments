@@ -9,10 +9,10 @@
     },
     "tm:optional": [],
     "properties": {
-        "depth": {
+        "value": {
             "title": "Depth",
             "description": "Depth value",
-            "type": "integer"
+            "type": "number"
         }
     }
 }

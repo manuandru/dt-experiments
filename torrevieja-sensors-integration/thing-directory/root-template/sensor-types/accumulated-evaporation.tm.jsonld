@@ -9,10 +9,10 @@
     },
     "tm:optional": [],
     "properties": {
-        "accumulatedEvaporation": {
+        "value": {
             "title": "Accumulated evaporation",
             "description": "Accumulated evaporation value",
-            "type": "integer"
+            "type": "number"
         }
     }
 }

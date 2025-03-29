@@ -9,10 +9,10 @@
     },
     "tm:optional": [],
     "properties": {
-        "rainIntensity": {
+        "value": {
             "title": "Rain intensity",
             "description": "Rain intensity value",
-            "type": "integer"
+            "type": "number"
         }
     }
 }

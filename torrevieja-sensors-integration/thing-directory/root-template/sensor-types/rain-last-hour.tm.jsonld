@@ -9,10 +9,10 @@
     },
     "tm:optional": [],
     "properties": {
-        "rainLastHour": {
+        "value": {
             "title": "Last hour rain",
             "description": "Last hour rain value",
-            "type": "integer"
+            "type": "number"
         }
     }
 }

@@ -9,10 +9,10 @@
     },
     "tm:optional": [],
     "properties": {
-        "evaporation": {
+        "value": {
             "title": "Evaporation",
             "description": "Evaporation value",
-            "type": "integer"
+            "type": "number"
         }
     }
 }

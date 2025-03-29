@@ -14,21 +14,45 @@
     "links": [
         {
             "rel": "tm:submodel",
-            "href": "$THING_DIRECTORY/sensor-types/temperature.tm.jsonld",
+            "href": "$THING_DIRECTORY/sensor-types/humidity.tm.jsonld",
             "type": "application/tm+json",
-            "instanceName": "temperature"
+            "instanceName": "humedad"
         },
         {
             "rel": "tm:submodel",
-            "href": "$THING_DIRECTORY/sensor-types/humidity.tm.jsonld",
+            "href": "$THING_DIRECTORY/sensor-types/rain.tm.jsonld",
             "type": "application/tm+json",
-            "instanceName": "humidity"
+            "instanceName": "lluvia"
+        },
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/rain-intensity.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "intensidadlluvia"
         },
         {
             "rel": "tm:submodel",
             "href": "$THING_DIRECTORY/sensor-types/pressure.tm.jsonld",
             "type": "application/tm+json",
-            "instanceName": "pressure"
+            "instanceName": "presion"
+        },
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/temperature.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "temperatura"
+        },
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/dew-point.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "puntoderocio"
+        },
+        {
+            "rel": "tm:submodel",
+            "href": "$THING_DIRECTORY/sensor-types/wind-speed.tm.jsonld",
+            "type": "application/tm+json",
+            "instanceName": "velocidadviento"
         }
     ],
     "tm:optional": [],
@@ -45,18 +69,31 @@
             "readOnly": true,
             "default": "weather-sensor"
         },
+        "sensorDiscriminant": {
+            "title": "Sensor discriminant",
+            "description": "The sensor discriminant of the weather station.",
+            "type": "string",
+            "readOnly": true,
+            "default": "07-1"
+        },
+        "location_id": {
+            "title": "Location ID",
+            "description": "The location ID of the weather station.",
+            "type": "string",
+            "readOnly": true
+        },
         "coordinate": {
             "title": "Geographic Coordinates",
             "description": "The geographic coordinates of the weather station.",
             "@type": "geo:GeoCoordinates",
             "properties": {
                 "latitude": {
-                    "type": "number",
+                    "type": "string",
                     "description": "The latitude of the weather station.",
                     "readOnly": true
                 },
                 "longitude": {
-                    "type": "number",
+                    "type": "string",
                     "description": "The longitude of the weather station.",
                     "readOnly": true
                 }

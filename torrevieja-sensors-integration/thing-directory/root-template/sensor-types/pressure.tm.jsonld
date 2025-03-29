@@ -9,10 +9,10 @@
     },
     "tm:optional": [],
     "properties": {
-        "pressure": {
+        "value": {
             "title": "Pressure",
             "description": "Pressure value",
-            "type": "integer"
+            "type": "number"
         }
     }
 }

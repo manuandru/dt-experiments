@@ -9,10 +9,10 @@
     },
     "tm:optional": [],
     "properties": {
-        "dewPoint": {
+        "value": {
             "title": "Dew point",
             "description": "Dew point value",
-            "type": "integer"
+            "type": "number"
         }
     }
 }
